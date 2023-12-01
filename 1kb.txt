@@ -1,103 +1,1928 @@
-vless://01467edb-5b88-4d05-a622-f39ef473096d@free1.h3lixchannel.fun:443/?type=grpc&encryption=none&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&sni=ea.com&fp=firefox&security=reality&pbk=bQeqHsCsG1Ge92b6wv21hg3QPqjYB3zDyyRBu-aTJCI&sid=b0ad1a74#%F0%9F%87%A9%F0%9F%87%AA%2B%7C%2B%40HELIX_SERVERS%2B%7C%2BMTN
-vless://13e3783f-6cb1-4a05-8351-cbfd090b11c6@104.16.178.157:2096/?type=grpc&encryption=none&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&security=tls&sni=free2.h3lixchannel.fun&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%2B%7C%2B%40HELIX_SERVERS%2B%7C%2BMCI
-vless://d5e19e29-701e-46b4-a20f-417b72aa0684@free3.h3lixchannel.fun:443/?type=grpc&encryption=none&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&sni=eset.com&fp=chrome&security=reality&pbk=0Ckov-4qL39Uei6IVu6z85AU7W4aHY_6DSioz3TfmFM&sid=ba525fd6#%F0%9F%87%AB%F0%9F%87%AE%2B%7C%2B%40HELIX_SERVERS%2B%7C%2BMTN
-vless://d586bd42-2253-4fab-9707-e5d391cb1843@104.16.178.157:2096/?type=grpc&encryption=none&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&security=tls&sni=free4.h3lixchannel.fun&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%2B%7C%2B%40HELIX_SERVERS%2B%7C%2BMCI
-vmess://eyJhZGQiOiJ4eXoxOC5mb3J3YXJkdjJyYXl0ZWxlZ3JhbWNoYW5uZWwuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ2MmU3MmIwLTE0YTItNDM5YS05OTEyLWMxMzNiZjg5MjM3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9GT1JXQVJEVjJSQVkiLCJwb3J0IjoiMjA1MiIsInBzIjoi8J+HuvCfh7ggQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMTYuMS4xOTUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJpb3MiLCJob3N0IjoiU2FuZC5CbGFua3UuTWUiLCJpZCI6ImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzQ4MCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4IEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJTYW5kcC5CbGFua3UuTWUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://3280dac0-8495-44bd-862f-19620f6472bb@sdsdf.numal.site:8880/?type=ws&encryption=none&path=%2F#%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2BAll%2BNet%2B1
-vless://b12f9362-c562-4389-9f42-5d8a9c60d0ff@jioin-severnett7.numal.site:8880/?type=ws&encryption=none&path=%2F#%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2B%40ServerNett%2BAll%2BNet%2B2
-vless://2a51ea94-e697-4bd9-afbd-b719db64fceb@141.95.106.240:54352/?type=grpc&encryption=none&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&sni=ftp.debian.org&fp=firefox&security=reality&pbk=setn5CE9f0f3aY6ixElHyHI0PbkG_5V_8OSTTIfLBzA&sid=b1327443#%40ServerNett%2BAll%2BNet%2B1
-vless://be2b9156-e5f6-433b-a721-6a2cd681299e@jioin-severnett12.numalla.top:8443/?type=grpc&encryption=none&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&security=tls&sni=jioin-severnett12.numalla.top#%40ServerNett%2BAll%2BNet%2B2
-vless://b793ac52-91e2-4ee6-984d-ba2c02a16198@65.21.106.81:11508/?type=grpc&encryption=none&serviceName=%40V2ray_Alpha&fp=firefox&security=reality&pbk=LzSZjOxgv4pCtO2I49L7Uz17ErBVnYin9lJAWxx8whU&sid=
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.39.221:2096/?type=ws&encryption=none&host=jp29.wang66.homes&path=%2Fblue&security=tls&sni=jp29.wang66.homes#%40VMESSIR4N%2B%D8%AE%D8%B1%DB%8C%D8%AF%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.137.129:2096/?type=ws&encryption=none&host=krsg29.wang66.homes&path=%2Fblue&security=tls&sni=krsg29.wang66.homes#%40VMESSIR4N%2B%D8%AE%D8%B1%DB%8C%D8%AF%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.176:2087/?type=ws&encryption=none&host=krsg29.wang66.homes&path=%2Fblue&security=tls&sni=krsg29.wang66.homes#%40VMESSIR4N%2B%D8%AE%D8%B1%DB%8C%D8%AF%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@ip.sb:8443/?type=ws&encryption=none&host=29tub.wang66.homes&path=%2Ffreecodes&security=tls&sni=29tub.wang66.homes#%40VMESSIR4N%2B%D8%AE%D8%B1%DB%8C%D8%AF%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
-trojan://telegram-id-privatevpns@13.43.214.176:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1#%28S118%29%F0%9F%87%AC%F0%9F%87%A7t.me%2FPrivateVPNs
-trojan://telegram-id-privatevpns@3.254.225.199:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1#%28S119%29%F0%9F%87%A8%F0%9F%87%AEt.me%2FPrivateVPNs
-trojan://telegram-id-privatevpns@18.200.112.114:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1#%28S120%29%F0%9F%87%A8%F0%9F%87%AEt.me%2FPrivateVPNs
-vless://b60625a3-37c6-4d1e-b2c9-3232b3287a17@join.v2raytz.sbs:443/?type=tcp&encryption=none&security=tls&sni=V2ray.join-svnteam.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%3A%2B%40V2rayNGvpni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%A8%D8%B1%D8%A7%DB%8C%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%2B%D8%AC%D9%88%DB%8C%D9%86%2B%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
-vless://b8759aa5-3137-4d93-9179-8e2c280306f4@173.245.59.16:80/?type=ws&encryption=none&host=TjuXt1.AMoOzEsHGaH-Pc.cOM&path=%2Fbackup#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%2B%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%2B%7C%2B%F0%9F%87%A9%F0%9F%87%AA%2B%7C%2B%D9%87%D9%85%D8%B1%D8%A7%D9%87%2B%D8%A7%D9%88%D9%84%2B%D9%88%2B%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@all.vpncustomize.cam:443/?type=grpc&encryption=none&serviceName=%E2%80%8C&security=tls&alpn=h2&fp=chrome
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@all.vpncustomize.cam:443/?type=grpc&encryption=none&serviceName=%E2%80%8C&security=tls&alpn=h2&fp=chrome
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@all.vpncustomize.cam:443/?type=grpc&encryption=none&serviceName=%E2%80%8C&security=tls&alpn=h2&fp=chrome
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@all.vpncustomize.cam:443/?type=grpc&encryption=none&serviceName=%E2%80%8C&security=tls&alpn=h2&fp=chrome
-vless://13083dc2-6cc7-4aa9-ad69-a5fcd9477455@support.discord.com:2087/?type=ws&encryption=none&host=ShprxyV2ray.digitalciity.Tech&path=%2F&security=tls&sni=ShprxyV2ray.digitalciity.Tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D9%85%D8%A7%2B%D8%AF%D8%B1%2B%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%2B%40V2rayng_Fast
-https://bordhub.info/
-http://xcmys97g.com/
-http://xcmys97g.com/
-https://tfjcux67qaz.com/
-https://tfjcux67qaz.com/
-vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087/?type=grpc&encryption=none&serviceName=IP_CF&security=tls&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome#%F0%9F%9A%B8%2BJoin%2BTelegram%2B%3A%2B%F0%9F%86%94%2B%40IP_CF%2B%7C
-vless://39e39d36-59b8-4252-8f8d-8daa6fb60b7d@65.108.95.107:42541/?type=grpc&encryption=none&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&sni=kukala.ir&fp=chrome&security=reality&pbk=wEaidwWX716xbBWZbZIZnsBNsggyrjIjj2u0xf0exno&sid=c0aeebbe#%D9%85%D9%86%2B%DA%AF%D9%88%DA%AF%D9%88%D9%84%D9%85
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.74.110:22222/?type=ws&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.31.64.96:22222/?type=ws&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.167.110:22222/?type=ws&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-https://tfjcux67qaz.com/
-https://tfjcux67qaz.com/
-vless://7581b0e0-e22c-49d8-8525-b60ab9cd0620@all.shhproxy.cfd:443/?type=grpc&encryption=none&serviceName=%40Shh_Proxy%2C%40Shh_Proxy&security=tls&sni=V2ray-NAPSTERNET-IRANCELL-inha-fisr-MTN.snappfoodd.site#%40v2rayng_org
-vless://8663c869-9953-4c29-974b-32a00fe630f7@support.discord.com:2087/?type=ws&encryption=none&host=configngnixV2rayng.shhproxy.cfd&path=%2F&security=tls&sni=configngnixV2rayng.shhproxy.cfd#%40v2rayng_org
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14564#%F0%9F%8E%A610%40oneclickvpnkeys
-vless://9dace447-6bac-4789-a32f-b4863021ec8d@worker.interanetir.pingtools.space:8080/?type=ws&encryption=none&host=Sshh.pingtoolsonline.com&path=%2F#%F0%9F%8E%A621%40oneclickvpnkeys
-vless://4b3d6dd3-d0e7-4eeb-8e44-6445b42aadd9@91.107.138.189:2053/?type=tcp&encryption=none&sni=www.speedtest.net&fp=firefox&security=reality&pbk=PwQBcBvC9bWXDKU9EaUv7yF0IwiIoO-WdsHTzSmNrx4&sid=70331f12#%F0%9F%8E%A620%40oneclickvpnkeys
-vmess://eyJhZGQiOiI1MS42OC4yMTAuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjYxNjU3MmItYmQ4OC00ZmZhLWJmMDUtOTg3NjczYjdkODZmIiwibmV0IjoidGNwIiwicGF0aCI6Ii9AZGFyZWRldmlsbF80MDQiLCJwb3J0IjoiNTQxMTgiLCJwcyI6IvCfjqYxOEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.68.206.229:8080#%F0%9F%8E%A614%40oneclickvpnkeys
-vless://6c40c9f8-0e21-43a5-895a-2bb52503ab42@91.107.130.63:1402/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tuyacn.com&fp=chrome&security=reality&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#%F0%9F%8E%A619%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdENuSUFBUUFzc2N3TG5vNUoyY3Fk@52.142.191.186:54452#%F0%9F%8E%A617%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZDU3blJtNDJ3YXZWNjduZFNIOEdH@52.142.191.160:28454#%F0%9F%8E%A615%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxNjUuMjMyLjExNS4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjU1YThjNjY3LWZhYzAtNDdkYS1mZDAwLTgyOTI3YzBjMjI1NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU3OTYzIiwicHMiOiLwn46mMTFAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@all.vpncustomize.cam:443/?type=grpc&encryption=none&serviceName=%E2%80%8C%20%40VPNCUSTOMIZE%20%E2%80%8C&security=tls&sni=FreaV2rayng.VPNCUSTOMIZE.tech&alpn=h2&fp=chrome#%F0%9F%8E%A612%40oneclickvpnkeys
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@190.93.246.242:443/?type=grpc&encryption=none&serviceName=%E2%80%8C%20%40VPNCUSTOMIZE%20%E2%80%8C&security=tls&sni=FreaV2rayng.VPNCUSTOMIZE.tech&alpn=h2&fp=chrome#%F0%9F%8E%A61%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdXptQ1JzSjM3OE1zRGNodGltNHU4@52.142.191.152:20168#%F0%9F%8E%A616%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDd3hZTEFRbmFSVzU0QjVLaWlFZHJ5@52.142.191.244:43972#%F0%9F%8E%A613%40oneclickvpnkeys
-vmess://eyJhZGQiOiJ4eXoyMy5mb3J3YXJkdjJyYXl0ZWxlZ3JhbWNoYW5uZWwuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4eXoyMy5mb3J3YXJkdjJyYXl0ZWxlZ3JhbWNoYW5uZWwuZnVuIiwiaWQiOiI4MTlmMTZkYy01NjMyLTQyZGQtODQyNy0wOWE3MDI4NjcwMTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvRk9SV0FSRFYyUkFZIiwicG9ydCI6IjIwOTYiLCJwcyI6IvCfjqYzM0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoieHl6MjMuZm9yd2FyZHYycmF5dGVsZWdyYW1jaGFubmVsLmZ1biIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://93f1de92-bb07-43de-bfa6-a754b21f7768@185.238.228.253:443/?type=grpc&serviceName=w9x8jcNwkA2zUaju4sCZhUIO4M&security=tls&sni=sub1.ipsycho.pro&alpn=h2#%F0%9F%8E%A625%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxODUuMjM4LjIyOC4yNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN1YjEuaXBzeWNoby5wcm8iLCJpZCI6IjkzZjFkZTkyLWJiMDctNDNkZS1iZmE2LWE3NTRiMjFmNzc2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9SYXNhOTBZTk4wVU1uMDhwdE9XMTlGdkwiLCJwb3J0IjoiNDQzIiwicHMiOiLwn46mMzJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJzdWIxLmlwc3ljaG8ucHJvIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://2b3c1f1e-0b5d-432c-dc83-3446f667c318@uk.blueberrynetwork.icu:333/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.kukala.ir&fp=chrome&security=reality&pbk=HBVZn41lQ8uFjcDHHTYVJ2EyH9Vb7OYOBco4kDF15FQ&sid=#%F0%9F%8E%A624%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxMDQuMjAuMTU2LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IvCfjqYyN0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoibXkyLnhnZmhqdmZoaGJmZmhia2JpaGdoYmN0ZzIyLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://b08a51d3-4eba-49cc-9f56-82e439a3f3df@77.73.131.30:2096/?type=grpc&encryption=none&security=tls&sni=sfp.dominogolden.eu.org#%F0%9F%8E%A626%40oneclickvpnkeys
-vless://ddfbba93-e853-4436-a47e-7cf5aba39e04@139.162.188.66:443/?type=tcp&encryption=none&sni=proxmox.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%8E%A623%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZEp1UGpxN1diRkRqQjRvYWNsakd3@5.182.36.245:10141#%F0%9F%8E%A631%40oneclickvpnkeys
-vless://5c9f9187-613a-4663-8a1b-c8726138b38f@bia_to_vmessorg.mokhin.me:80/?type=ws&encryption=none&host=join.bede.vmessorg.mokhin.me&path=%2F#%F0%9F%8E%A622%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxMDQuMjQuMjA4LjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IvCfjqYyOUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoibXkyLmFwcGdjamN6amIuc2hvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://f86103ba-e161-4e39-adb7-8006acc5ec0f@104.31.16.8:80/?type=ws&encryption=none&host=ZOoloGY.KasHTi.woRld&path=%2Fbackup#%F0%9F%8E%A628%40oneclickvpnkeys
-vless://a192bf84-6d0e-4a50-bec2-650f50837810@mtn.vpnprosec.com:443/?type=grpc&encryption=none&security=tls&sni=V2ray.SvnReallity.Online#%F0%9F%8E%A62%40oneclickvpnkeys
-vless://b9814af7-75f0-4ffe-bd02-d52792c3771b@45.147.250.11:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=x-Zv8k40O3rJ8sjJknVpimNI4dhEk3WRCyKeRb5NeEU&sid=e3cf4772268c17e1#%F0%9F%8E%A630%40oneclickvpnkeys
-vless://b12f9362-c562-4389-9f42-5d8a9c60d0ff@jioin-severnett7.numal.site:8880/?type=ws&encryption=none&path=%2F#%F0%9F%8E%A644%40oneclickvpnkeys
-vless://d9a48722-eaf3-478f-8262-04361b89bb94@77.83.246.217:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.com&fp=firefox&security=reality&pbk=A0tfr7R9a2LF4O-3jn2Wg3XURIy3uIv2VWG469oXQ1Y&sid=96f5014f#%F0%9F%8E%A643%40oneclickvpnkeys
-vless://13083dc2-6cc7-4aa9-ad69-a5fcd9477455@support.discord.com:2087/?type=ws&encryption=none&host=ShprxyV2ray.digitalciity.Tech&path=%2F&security=tls&sni=ShprxyV2ray.digitalciity.Tech#%F0%9F%8E%A634%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxOTguNDEuMjAyLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVmYzQ3MDgtMjE0Mi00NmJhLWI2MTYtYjE2YzU5NTJhZWUzIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoi8J+OpjM5QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4eXouYm9yZWRob3QuY2xvdWQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://932f7774-5983-4b97-a262-00a14d502869@free.networknim.site:8080/?type=ws&encryption=none&host=tanposh.site&path=%2F#%F0%9F%8E%A640%40oneclickvpnkeys
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.99.192:443#%F0%9F%8E%A63%40oneclickvpnkeys
-vless://435b3f7e-7daa-4115-d3f6-4139298e4f4d@net_club.norbertvip.site:27782/?encryption=none&host=exo.ir&type=tcp&headerType=http#%F0%9F%8E%A642%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZXVWdG5HSDYzTUtxT2V1Yzk@103.143.209.134:51348#%F0%9F%8E%A645%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjRGV3bnBsQjREaEY3Vmp6RElkTUZm@94.131.108.237:46041#%F0%9F%8E%A638%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjciLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6Im9jdGF2aS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn46mMzZAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6Im9jdGF2aS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMjkuMTQ2LjEzMy4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODE3MTRjZWYtOWJkZS00YTA4LWFhNTAtZDZiYzAxNzJkNzhiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTAwOSIsInBzIjoi8J+OpjQxQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://4e70d949-347a-4a49-8ad3-6f8ef2eb28bf@all1.mebird1.fun:2083/?type=ws&encryption=none&host=all1.mebird1.fun&path=%2F&security=tls&sni=all1.mebird1.fun#%F0%9F%8E%A635%40oneclickvpnkeys
-vless://b60625a3-37c6-4d1e-b2c9-3232b3287a17@join.v2raytz.sbs:443/?type=grpc&encryption=none&security=tls&sni=V2ray.join-svnteam.online#%F0%9F%8E%A637%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxNDYuMTkwLjEwNi4xOTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTNhMzVkYmYtOGE1OC00ZWE5LWQzMjEtMzliNzZjM2JlZGEwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FscGhhIiwicG9ydCI6IjI5MDQ1IiwicHMiOiLwn46mNDhAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0dHR0LnNzZnJlZS5ydSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidHR0dC5zc2ZyZWUucnUiLCJpZCI6IjVhNmQ0YTgwLThlZDAtMTFlZS04OWQwLTAwMTYzZTQ5MjE5ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zZWFyY2giLCJwb3J0IjoiNDQzIiwicHMiOiLwn46mNDlAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6InR0dHQuc3NmcmVlLnJ1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://ff2cb43b-a093-4372-a19c-37ff6f6d741f@trch.blueberrynetwork.icu:333/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.kukala.ir&fp=chrome&security=reality&pbk=o0eRV4p7lizgJXVxPt9fbOzqKzL9UlyhHjnZJGVAUQo&sid=80c7292c#%F0%9F%8E%A651%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxNDIuOTMuMTY0LjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiYzI4ZDI2NTItNzQwYS00NzVmLTlhYTQtOGM0NmRhMjZmYmY3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzg3NjEiLCJwcyI6IvCfjqY3QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://c3f2333c-1569-488c-bd2e-be944a393387@104.21.50.254:443/?type=grpc&encryption=none&security=tls&sni=V2ray.SvnBuy.Online#%F0%9F%8E%A68%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVHlwaWxtamlkcnI2ZFFZYU9HSGY3@13.87.75.155:46130#%F0%9F%8E%A65%40oneclickvpnkeys
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WEh0ZHl3VVhUV1gwOGM0dThkdGt3S2NuQ09hY1d6ci9DSmsrc1IwTE5uND06TjZmQmg2SWY4eENHb0puMTZsTW5OQW45QlRMT1QyTlFXRmVXSXdLTTJRQT0@65.109.239.15:443#%F0%9F%8E%A64%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVWdEM21IWExNMEpFcWh1bkJrM096@172.233.92.117:443#%F0%9F%8E%A646%40oneclickvpnkeys
-vless://3e51e5cd-93d5-40d1-a2bb-30c4df14c718@95.164.86.121:80/?type=tcp&encryption=none#%F0%9F%8E%A66%40oneclickvpnkeys
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443/?type=ws&encryption=none&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048&security=tls&sni=sdgf.bdfstt.sbs#%F0%9F%8E%A650%40oneclickvpnkeys
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@190.93.246.24:443/?type=grpc&encryption=none&serviceName=%E2%80%8C%20%40VPNCUSTOMIZE%20%E2%80%8C&security=tls&sni=FreeV2rayng.VPNCUSTOMIZE.tech&alpn=h2&fp=chrome#%F0%9F%8E%A69%40oneclickvpnkeys
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@188.114.96.3:2052/?type=ws&encryption=none&host=jp10.vlessx.xyz&path=tel.mehrosaboran#%F0%9F%8E%A647%40oneclickvpnkeys
-vless://c07e3dce-2f7b-4f4f-9fc9-55ed3ac29e8b@bia-to1.unlimiteddev.shop:80/?type=ws&encryption=none&host=bia-to-channel3.unlimiteddev.shop&path=%2F#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://e1962573-6d3a-49cd-bda5-699708552654@mci.legions.sbs:443/?type=grpc&encryption=none&serviceName=TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za&security=tls&sni=txt.legions.sbs#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://a192bf84-6d0e-4a50-bec2-650f50837810@mtn.vpnprosec.com:443/?type=grpc&encryption=none&security=tls&sni=V2ray.SvnReallity.Online#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://2b91c1b0-6077-4180-b37c-6e93c487498a@190.93.246.242:443/?type=grpc&encryption=none&serviceName=%E2%80%8C&security=tls&alpn=h2&fp=chrome
-vless://2b3c1f1e-0b5d-432c-dc83-3446f667c318@uk.blueberrynetwork.icu:333/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.kukala.ir&fp=chrome&security=reality&pbk=HBVZn41lQ8uFjcDHHTYVJ2EyH9Vb7OYOBco4kDF15FQ&sid=#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vmess://eyJhZGQiOiIxMDQuMjAuMTU2LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoibXkyLnhnZmhqdmZoaGJmZmhia2JpaGdoYmN0ZzIyLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://c07e3dce-2f7b-4f4f-9fc9-55ed3ac29e8b@bia-to3.unlimiteddev.shop:80/?type=ws&encryption=none&host=bia-to-channel3.unlimiteddev.shop&path=%2F#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://b60625a3-37c6-4d1e-b2c9-3232b3287a17@mtn.vpnprosec.com:443/?type=grpc&encryption=none&security=tls&sni=V2ray.join-svnteam.online#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://aa680245-9a05-4ac6-a86d-29ff8d1be8d9@public.alpanel.top:1380/?type=grpc&encryption=none&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sni=www.iranserver.com&fp=chrome&security=reality&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&sid=4c5aaad0#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-vless://b60625a3-37c6-4d1e-b2c9-3232b3287a17@join.v2raytz.sbs:443/?type=tcp&encryption=none&security=tls&sni=V2ray.join-svnteam.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%3A%2B%40V2rayNGvpni
-http://tuof8eubtj2.com/
-http://tuof8eubtj2.com/
+https://raw.githubusercontent.com/sqahremani419/nekoboxtelegram/main/1kb.txt
+🔴تو این چنل اخبار لحظه به لحظه جنگ اسرائیل-حماس و طرح‌های دولت رئیسی برای گرونی‌های بیشتر رو با جدیدترین تصاویر دنبال کن- داغ داغ @SimaINTV 👉🏻📛
+
+تا از مدرسه میرسیدم خونه بدو بدو تلوزیون روشن میکردمو و با وجود جیغ جیغای مامانم کارتونای پرشن‌تون میدیدم🙂یک روز برگشتم و دیدم دیگه نیست... امروز یه چنلی دیدم که داره کارتونای مورد علاقم میزاره ذوق کردم مثل بچگیام ::)))
+- @PirseanToon
+
+هر کی بچگیش انجل‌فرندز میدیده الان دافه :)
+
+💉تدریس زیســت با انیمیشــن 👇🏻
+🦠 @Animation 🦠
+          🦠 @Animation 🦠
+
+🫀 انیمیشن تشریح قلب 😵‍💫
+🪴 انیمیشن فرایند فتوسنتز 🥹
+👀 انیمیشن فرایند تولید مثل انسان 🤫
+
+زبانم در حد بیکاز و لای بود تا اینکه با این چنل آشنا شدم😂😍
+
+انیمیشین تشریح قلب 🫀
+
+عوارض خودارضایی که هیچ وقت نمیدونستی و میتونه خطر ساز باشه برات! 
+
+مشاهده نمونه عوارض
+
+"ای پدر سوخته" به انگلیسی چی میشه؟   
+
+1) You son of a gun 
+2) Father burnt
+
+⛔️ در کدام کشور آدامس جویدن ممنوع است؟
+
+ هند
+ سنگاپور 
+ ولز
+
+🔴 BLAUGRANA CREW 🔵
+
+⚽️ روی مسابقاتی که باشگاه بارسلونا حضور دارد پیش‌بینی کنید و از 1XBET برنده جوایز شوید.
+
+❤️💙 بازی های بارسلونا را با شریک رسمی باشگاه بارسلونا  1XBET پیش بینی کنید.
+
+🌐Link: 1XBET.COM
+🌐Link: 1XBET.COM
+
+🔽🔽  فایل نصب اندروید 1XBET 🔽🔽
+
+💥 جدیدترین آپدیت اپلیکیشن رسمی 1XBET
+
+✅ ورود / ثبت نام از طریق اپلیکشن 
+🌐 بالاترین ضرایب در سایت جهانی 1XBET
+🎖بزرگترین اسپانسر رسمی لالیگا و سری آ
+
+کانفیگ فروشی هرکی میخاد بیاد پیوی
+ارزون میدم
+
+@Delqors
+
+T.me/clashsellerbot?start=5341751859
+
+بازی خوبیه😂
+
+قبیله اینا میسازی برا خودت😂سرگرمی خوبیه
+
+همراه🔵
+وایفا🔵
+
+لوک:🇩🇪
+
+
+vless://a89c9199-0b1d-4470-f3ea-94725589deb8@mci.divar.pro:80?path=%2F&security=none&encryption=none&host=GzfMVr.sPAMdEtEcTOr.WORLD&type=ws#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%7C+%F0%9F%87%AB%F0%9F%87%B7+%7C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+
+✈️@server_nekobox✈️
+
+📱آیفون توی برنامه⚫️v2box یا fair💚
+
+اندروید🤍توی برنامه🤍
+
+شبتون خوش تا فردا بدرود💤
+
+تعهد یعنی چی!؟
+یعنی هم فرصتشو داری، هم وقتشو داری، هم کسی نمیفهمه، ولی چون میدونی اشتباهه انجامش نمیدی.
+مبنای آرامش هر رابطه رو تعهد تعیین میکنه؛
+کافیه خیالت از طرف مقابل راحت نباشه
+اونوقت تمام وجودت میشه نگرانی...
+تعهدی که درونی باشه نه از ترس...
+
+➿➿➿➿ 🐝 Proxy ➿➿➿➿
+
+🔵 HamrahAval
+ ««Connect»»  ««Connect»»
+
+❤️ Irancel ❤️ Rightel
+ ««Connect»»  ««Connect»»
+
+➿➿➿➿@FreakConfig➿➿➿
+
+🔥🔥🔥🔥🇩🇪Config🇳🇴🔥🔥🔥🔥
+
+❤️ Irancel ❤️ Rightel 🔋فعال# 
+                    
+vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sg18.vlessx.xyz&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
+vless://45676281-ab4e-4696-d1cd-cb1b141960ad@104.21.43.63:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=pan-4.eoeo.cam#%40FreakConfig
+
+vmess://eyJhZGQiOiI5NS4xNjQuMzguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNlOWNjZWUxLThjMGUtNGVhNC04ZDkzLTdiODk2ZWM1NGUzMSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hs/Cfh7QgQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+
+❤️ممکنه به خاطر اختلالات اینترنت توی برنامه کانفیگ متصل نشه یا پینگ بالایی بده اما متصله و سرعت خوبی داره. 
+
+❤️Not Connect?(عــدم  اتصال) Click here  
+❤️ How to use? (روشاستفاده) Click here 
+
+🔥🔥🔥🔥 @FreakConfig 🔥🔥🔥🔥
+
+سرور ها باید آپدیت بشن عزیزان🤍
+
+New Servers By @ServerNett 🧡
+
+👑 سرور اختصاصی برای همه اپراتور ها ✔️
+vless://77751b67-0267-4003-b6a9-850f963c12e9@sdsdf.numal.site:8880?path=%2F&security=none&encryption=none&type=ws#%40ServerNett+%40ServerNett+%40ServerNett+%40ServerNett+%40ServerNett+%40ServerNett+All+Net+1
+
+vless://ea8b0b11-086b-49e4-8876-5c732ecae637@141.95.106.240:54352?mode=gun&security=reality&encryption=none&pbk=setn5CE9f0f3aY6ixElHyHI0PbkG_5V_8OSTTIfLBzA&fp=firefox&spx=%2F&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=ftp.debian.org&sid=b1327443#%40ServerNett+All+Net+1
+
+vless://9294765a-f63d-49a8-92d2-e8d08a68d960@jioin-severnett12.numalla.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=jioin-severnett12.numalla.top#%40ServerNett+All+Net+2
+
+⚜️ کلیه سرور ها تا فردا صبح نامحدودن🐋
+@ServerNett 🐹
+
+ری اکشنا خیلی خیلیییی کمه
+
+🔴تو آپدیت جدید تلگرام که امروز منتشر شد؛
+ قابلیت «تبدیل ویس به متن» که تا الان فقط مختص کاربران پرمیوم بود، حالا برای همه یِ کاربران تلگرام در دسترسه.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌
+جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید  
+ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل ‌
+پروکسی | پروکسی | پروکسی | پروکسی | پروکسی
+
+@proxy_mtprotoir
+
+از آدمهایی که برنامتو میپرسن و سعی میکنن خودشونو جا بدن تو برنامت واقعا دوست داشتینن و خوشم میاد=))))
+« میخوای برسونتمت؟» 
+«میخوای باهات بیام تنها نباشی؟»
+«میخوای بیام حوصلت سر نره اونجا؟
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌
+جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید  
+ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل ‌
+پروکسی | پروکسی | پروکسی | پروکسی | پروکسی
+
+@proxy_mtprotoir
+
+این فقط یه قسمت از مشکلاتیه که ما پسرا داریم :///
+
+جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید | جدید  
+ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل | ایرانسل ‌
+پروکسی | پروکسی | پروکسی | پروکسی | پروکسی
+
+@proxy_mtprotoir
+
+🔴 BLAUGRANA CREW 🔵
+
+⚽ روی مسابقاتی که باشگاه بارسلونا حضور دارد پیش‌بینی کنید و از 1XBET برنده جوایز شوید.
+
+❤️💙 بازی های بارسلونا را با شریک رسمی باشگاه بارسلونا  1XBET پیش بینی کنید.
+
+🌐Link: 1XBET.COM
+🌐Link: 1XBET.COM
+
+🔽🔽  فایل نصب اندروید 1XBET 🔽🔽
+
+اشتراک های زیرو فقط برای ترید نیست 💎
+
+اشتراک های برای همه نوع استفاده شما عزیزان بهینه شده، که این قابلیت باعث میشه شما توی وب گردی، استریم و ... بهترین سرعت و پایداری رو داشته باشید 💫
+
+⚡ خرید اشتراک ⚡
+
+📱✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+🟢نسخه اندروید📱
+
+🟢2️⃣ترابایت
+
+🟢تمام اپراتورها🔵💜🟡🔵🔵📱
+
+🟢رمز 🎒  
+
+V2RAY_VMESS_free
+
+
+@V2RAY_VMESS_free
+
+📱✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+🟢نسخه اندروید📱
+
+🟢2️⃣ترابایت
+
+🟢تمام اپراتورها🔵💜🟡🔵🔵📱
+
+🟢رمز 🎒  
+
+V2RAY_VMESS_free
+
+
+@V2RAY_VMESS_free
+
+📱✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+🟢نسخه ios 🍏
+
+🟢2️⃣ترابایت
+
+🟢تمام اپراتورها🔵💜🟡🔵🔵📱
+
+🟢رمز 🎒  
+
+V2RAY_VMESS_free
+
+
+📱 @V2RAY_VMESS_free
+
+📱✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️✍️
+
+🟢نسخه ios 🍏
+
+🟢2️⃣ترابایت
+
+🟢تمام اپراتورها🔵💜🟡🔵🔵📱
+
+🟢رمز 🎒  
+
+V2RAY_VMESS_free
+
+
+📱 @V2RAY_VMESS_free
+
+🤍✍️🔢✍️✍️✍️✍️✍️
+
+همراه اول،مخابرات📱📱
+
+vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#%40V2RAY_VMESS_free
+
+vless://f317ca19-233e-4145-96eb-7ed7d0d0b450@104.31.16.92:80?path=%2F&security=none&encryption=none&host=vipfinlandcdn.heydasip.xyz&type=ws#%40V2RAY_VMESS_free
+
+vless://3cbaf436-93cc-4db1-be69-c5353076be15@104.17.219.222:80?path=%2Fgraphql&security=none&encryption=none&host=v6jJJe6.talamala.store&type=ws#%40V2RAY_VMESS_free
+
+vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@188.114.96.7:443?path=%2Fcypherpunks&security=tls&encryption=none&host=singbox.cypherpunks.asia&type=ws&sni=singbox.cypherpunks.asia#%40V2RAY_VMESS_free
+
+🟢   جهت حمایت از ما روی پستها ریکشن بزنید⬇️
+
+⚡️ @V2RAY_VMESS_free
+
+🤍✍️🔢✍️✍️✍️✍️✍️
+
+ایرانسل و رایتل📱📱
+
+vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl54.vlessx.us&type=ws#%40V2RAY_VMESS_free
+
+vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl54.vlessx.us&fp=randomized&type=ws&sni=nl54.vlessx.us#%40V2RAY_VMESS_free
+
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl57.vlessx.us&type=ws#%40V2RAY_VMESS_free
+
+vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=randomized&type=ws&sni=nl57.vlessx.us#%40V2RAY_VMESS_free
+
+🟢   جهت حمایت از ما روی پستها ریکشن بزنید⬇️
+
+📱 @V2RAY_VMESS_free
+
+TROJAN 🇬🇧 (S117) TCP
+trojan://telegram-id-privatevpns@18.130.127.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇬🇧 (S118) TCP
+trojan://telegram-id-privatevpns@18.171.105.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇨🇮 (S119) TCP
+trojan://telegram-id-privatevpns@54.77.81.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+TROJAN 🇨🇮 (S120) TCP
+trojan://telegram-id-privatevpns@52.30.35.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+ 📚آموزش استفاده از سرورها
+🌐 @PrivateVPNs
+
+💎 اگر دنبال درآمد روزانه 700.000 تا 1.000.000 تومن میگردی و میخوا شروع کنی عضو کانال شو 🔥
+
+💰 ما تو کانال با هم روزانه بالای 700.000 تومن درآمد داریم و با پولش سرمایه گذاری میکنیم 😜😂
+
+https://t.me/+IlPvXVPbkO8yNWI0
+
+عضو کانال رضا کینگ کونگ شید و پول در بیارید و سرمایه گذاری کنید تا بتونید رو آیندتون تغییر ایجاد کنید ✅👇
+
+https://t.me/+IlPvXVPbkO8yNWI0
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+لینک دانلود با اینترنت نیم بها:
+https://zed.li/Obr4Ewg
+
+@FreeMoviedwl3
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+📀 کیفیت 360p
+
+@FreeMoviedwl3
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+📀 کیفیت 480p
+
+@FreeMoviedwl3
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+📀 کیفیت 720p
+
+@FreeMoviedwl3
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+📀 کیفیت 1080p
+
+@FreeMoviedwl3
+
+🎬 سریال «زخم کاری؛ بازگشت» فصل ۲ قسمت ۱۳ (پایانی)
+
+📀 کیفیت 1080HQ
+
+@FreeMoviedwl3
+
+⭐️سرور جدید برای #V2ray:
+
+vless://27a38acf-31d5-4065-a7f3-26df258571aa@Join.V2RayTz.sbs:443?security=tls&encryption=none&headerType=none&type=tcp&sni=V2ray.SvnBuy.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+
+vless://8eb654cb-773d-430b-aa1c-53141e1b1a6b@Join.V2RayTz.sbs:443?security=tls&encryption=none&headerType=none&type=tcp&sni=V2ray.SvnReallity.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+
+🎞 آموزش اندروید | آموزش ایفون
+
+✅️@v2ray_outlineir
+
+⚡️ سریع ترین فیلترشکن جهان 
+
+🎌 با فیلترشکن ضدفیلتر کاپرا، سه سوت به اینترنت بدون محدودیت وصل شو
+
+✔️ فیلترشکن هم ضدفیلترش خوبه
+
+دانلود از گوگل پلی👇
+https://play.google.com/store/apps/details?id=com.capravpn.vpnpro
+
+دانلود مستقیم فایل👇
+
+☄️ با نصب فیلترشکن کاپرا دیگه نیاز به هیچ فیلترشکنی رو گوشیت نداری!
+
+سرور جدید ساعت 00:09
+
+⏳ سرور جدید v2ray  ⏳
+
+
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@joinbe.vmessorg.mokhin.me:80?encryption=none&security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F#%40VmessOrg
+
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@vmessorg.join.sho.mokhin.me:80?encryption=none&security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F#%40VmessOrg
+
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@vmessorg.bia.to.mokhin.me:80?encryption=none&security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F#%40VmessOrg
+
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@bia_to_vmessorg.mokhin.me:80?encryption=none&security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F#%40VmessOrg
+
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@vmessorg.bia.tosh.mokhin.me:80?encryption=none&security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F#%40VmessOrg
+
+
+
+سرور reality با سرعت بالا ✅
+
+
+vless://eedf4a2f-4e7d-48f8-8f47-258561f2d5b3@vmessorg.join.bede.mokhin.me:8443?type=grpc&security=reality&mode=gun&serviceName=%40VmessOrg&fp=chrome&sni=ftp.debian.org&pbk=9U3GO-mx3W6XsFh1pdQQ8T98Fy8n3TcGcKZINWVy23w&sid=5c4b8ba1&spx=%2F#@VmessOrg
+
+
+⏺⏺ سرور ریلیتی در برنامه  foxsray  🔵  برای  ios و v2rayng  💙   (نسخه  ۱.۸.۵  یا بالا تر) برای اندروید قابل استفاده میباشد(  آموزش زدن سرورا و برنامه ها  @vmessorgplus)   👤
+
+لوکیشن سرور :  🇩🇪
+
+👀 حجم سرور : 3️⃣ هزار گیگ  ❤️
+
+✅ خرید سرویس اختصاصی ✅
+
+کانال ما جهت دریافت سرور های بیشتر🤝
+
+@vmessorg 🟡
+
+🔺🔺
+
+ هر دو ساعت کانفیگ جدید و پرسرعت به  لینک اضافه میشه ، فقط کافیه update subscribe  رو بزنید
+
+ویا میتونید update auto بزارید هر یک ساعت خودش آپدیت بزنه
+
+🔴آموزش اپدیت اتوماتیک در هیدیفای نکست
+
+🟢با انجام این تنظیمات (همانند ویدیو) هر موقع لینک رو اپدیت کنم  خودکار برا شما هم اپدیت خواهد شد
+
+@ELiV2ray
+
+تمام نت ها 🇪🇺
+
+vless://a89c9199-0b1d-4470-f3ea-94725589deb8@mci.divar.pro:80?path=%2F&security=none&encryption=none&host=GzfMVr.sPAMdEtEcTOr.WORLD&type=ws#%40proxy_shadosocks
+
+نشد؟
+
+بریم بعدی...
+
+تمام نت ها 🌃
+
+vless://932f7774-5983-4b97-a262-00a14d502869@185.143.234.122:8080?path=%2F&security=none&encryption=none&host=configvip7.site&type=ws#proxy_shadosocks
+
+سرت همش تو گوشیه📱
+ولی بلد نیستی ازش پول دربیاری؟💵
+💸💸( صفر‌تا‌صد کسب درامد )🤑🪙
+
+👑💠ماهانه 30,000,000 تومان تو خونه پول دربیارید!  📱فقط با یه گوشی! 
+@Daraad_Dollari
+
+برنامه های مورد نیاز 
+V2rayNG اندروید
+NapsternetV ایفون
+
+vless://b60625a3-37c6-4d1e-b2c9-3232b3287a17@join.v2raytz.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.join-svnteam.online#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+
+مخصوص همراه اول و وایفای
+
+❤️به اشتراک بزارید
+@outline_ir 🚀
+@outline_irbot ربات فروش 🚀
+@persian_vpns فروشگاه 
+
+👌در صورت اتصال حتما در ریکشن ها شرکت کنید❤️
+
+برنامه های مورد نیاز 
+V2rayNG اندروید
+NapsternetV ایفون
+
+vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+
+مخصوص ایرانسل و رایتل
+
+❤️به اشتراک بزارید
+@outline_ir 🚀
+@outline_irbot ربات فروش 🚀
+@persian_vpns فروشگاه 
+
+👌در صورت اتصال حتما در ریکشن ها شرکت کنید❤️
+
+برنامه های مورد نیاز 
+V2rayNG اندروید
+NapsternetV ایفون
+
+vless://6b59ae24-33ca-4410-a1f7-d59245b6887a@95.216.166.188:443?security=reality&encryption=none&pbk=9vxFCkR5WHJW1SkDWG-9AjM7vOB8DfT5VJ_04OmS5To&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=cbac1fc1#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+
+مخصوص ایرانسل و رایتل
+
+❤️به اشتراک بزارید
+@outline_ir 🚀
+@outline_irbot ربات فروش 🚀
+@persian_vpns فروشگاه 
+
+👌در صورت اتصال حتما در ریکشن ها شرکت کنید❤️
+
+برنامه های مورد نیاز 
+V2rayNG اندروید
+NapsternetV ایفون
+
+vless://2b3c1f1e-0b5d-432c-dc83-3446f667c318@uk.blueberrynetwork.icu:333?security=reality&encryption=none&pbk=HBVZn41lQ8uFjcDHHTYVJ2EyH9Vb7OYOBco4kDF15FQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.kukala.ir#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
+
+مخصوص ایرانسل و رایتل
+
+❤️به اشتراک بزارید
+@outline_ir 🚀
+@outline_irbot ربات فروش 🚀
+@persian_vpns فروشگاه 
+
+👌در صورت اتصال حتما در ریکشن ها شرکت کنید❤️
+
+📌فورررری
+🚨👑🚨👑🚨👑🚨👑
+سلام دوستان  از این بعد تو این کانال  فیلترشکن #پولی ViP گذاشته میشه
+برای امشب #رایگانه 
+👇👇👇👇
+https://t.me/+ZZWFZCG2WeQ5Yzk0
+https://t.me/+ZZWFZCG2WeQ5Yzk0
+https://t.me/+ZZWFZCG2WeQ5Yzk0
+
+📌 درود رفقا ،  شب جمعه همگی بخیر
+
+بچه ها با توجه ب اینکه یکی از اکانتامون ب مشکل خورده و فقط روی سرویس الفا ما نزدیک ب ۶ تا لوکیشن فعال داریم ،📊
+
+📨  قبل از هر چیز سابسکراپشن تون رو حتمااااا آپدیت کنید..  📨
+
+📍 اگر کاربر اینترنت سیم کارت هستید فقط به کانفیگ های CDN وصل بشید !🔐
+
+📍 اگرم کاربر مودم هستید به کانفیگ های مستقیم(اونایی ک CDN نیستن) متصل لوکیشن های بالا وصل بشید .🔐
+
+
+انشالله ک اکانت درست شه اگر نشد جدید تهیه میکنیم و طی دو روز همرو برمیگردونیم .💙
+
+ پیگیر اخبار چنل باشین  ..
+
+Channel | Admin | Bot
+
+رضایت✨
+
+شبتون زیبا دوستان 🌎💤
+
+پلاگین V2ray 
+حتما نصب شود
+
+دانلود از گوگل پلی :
+https://play.google.com/store/apps/details?id=com.evozi.injector.plugin.v2ray
+
+Updated: Dec 9, 2022
+
+آپدیت جدید انجکتور
+
+دانلود از گوگل پلی :
+https://play.google.com/store/apps/details?id=com.evozi.injector
+
+Updated: Nov 15, 2023
+
+کانفینگ انجکتور 1️⃣
+➖➖➖➖➖➖➖➖➖
+دانلود برنامه انجکتور 
+➖➖➖➖➖➖➖➖➖
+دانلود پلاگین V2ray (افزونه)
+➖➖➖➖➖➖➖➖➖
+@injectorm 📢
+
+کانفینگ انجکتور 2⃣
+➖➖➖➖➖➖➖➖➖
+دانلود برنامه انجکتور 
+➖➖➖➖➖➖➖➖➖
+دانلود پلاگین V2ray (افزونه)
+➖➖➖➖➖➖➖➖➖
+@injectorm 📢
+
+کانفینگ انجکتور 4⃣
+➖➖➖➖➖➖➖➖➖
+دانلود برنامه انجکتور 
+➖➖➖➖➖➖➖➖➖
+دانلود پلاگین V2ray (افزونه)
+➖➖➖➖➖➖➖➖➖
+@injectorm 📢
+
+🌀 XD VPN 🌀
+#آپدیت_جدید🔵
+#پیشنهاد_ویژه 🟦
+💡v14.0 (14) | #Android
+
+
+🎁 نسخه مود شده [MOD]
+✅ قابل استفاده با همه نت ها (💩💜🔵🔵🟡🔵)
+✳️ اندروید پیش نیاز: 5.0 و بالاتر
+
+✅@FalconPolV2rayNG
+
+🚀 سرور اختصاصی V2rayNG
+
+vless://ee689ec5-0670-4c08-91d1-631b8d569182@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=High-speedV2ray.VPNCUSTOMIZE.tech#Join+%40V2rayNGn
+
+vless://ee689ec5-0670-4c08-91d1-631b8d569182@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#Join+%40V2rayNGn
+
+vless://10181509-d150-4b16-f28f-ad06c01e481f@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Liv2ray.p-lightning6.cfd#Join+%40V2rayNGn
+
+vless://f67901bd-1fc0-43d4-c383-a129eaa81acf@LIGHTNING6-joinbedee.mamd.sbs:8080?mode=gun&security=reality&encryption=none&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&fp=chrome&spx=%2F&type=grpc&serviceName=@LIGHTNING6&sni=www.speedtest.net&sid=356dc0#Join+%40V2rayNGn
+
+کانفیگا ب دلیل کانکشن بالا ممکنه پینگ ندن ولی وصلن
+
+
+📌 نحوه اتصال به سرور در اندروید
+🗂 دانلود v2rayNG برای اندروید
+
+📌 نحوه اتصال به سرور در ویندوز
+🗂 دانلود v2rayN برای ویندوز
+
+📌 نحوه اتصال به سرور در آیفون
+🗂 دانلود NapsternetV برای آیفون
+
+@V2rayNGn✅
+
+📋 کانفیگ V2ray رایگان روزانه تــو ربات .
+برات سوال شده چرا تو کانال کــــم میزارم؟
+
+🤖 چون جدیدا کانفیگ‌هارو تو ربات میزارم
+چون هم چنل شلـــوغ نمیشه هم راحت‌تره
+
+☁️ لینک ربات کانفیگ رایگان نامحدود ۷ روزه
+                          کلیک کن 
+
+وارد بشید و دکمه استارت را بزنید .
+
+https://t.me/mioxv2ray_bot?start=_RKWTSMQLDLHSCKU
+
+0️⃣0️⃣0️⃣1️⃣گیگ دیگه تمدید کردم😘🔥
+متصل رو ایرانسل رایتل 🚦 همراه اول شاتل
+سرعت عالی🛜
+اگه هنوز نگرفتی رو لینک زیر کلیک کن😋⬇️ 🔗
+https://t.me/mioxv2ray_bot?start=_RKWTSMQLDLHSCKU
+
+رفقا این تخفیفات رو از دست ندید اگر قصد خرید دارید اقدام بفرماید 👇🏿
+@nimarazi
+
+اول تست کنید و با خیال راحت خرید کنید🤍👌🏻
+
+پروکسی های جدید و فعال برای همراه اول و ایرانسل و رایتل و مخابرات 🎁
+
+https://t.me/proxy?server=138.201.154.32&port=7443&secret=fc6f886382bdee95d7f7c2889d5e7800
+
+https://t.me/proxy?server=128.140.110.30&port=7443&secret=8c273d0c75233e272dd96c0e9b8657a1
+
+https://t.me/proxy?server=91.107.232.228&port=7443&secret=68b4a334dfdd73d489aebfd05091762c
+
+https://t.me/proxy?server=77.246.105.161&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
+
+https://t.me/proxy?server=65.108.81.206&port=80&secret=ee42d438dff9b1a884966a387d1d65eba87777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=65.109.180.16&port=443&secret=7sYeFu5rSly5SyqrhixDFx5tYWlsLmdvb2dsZS5jb20=
+
+https://t.me/proxy?server=148.251.5.28&port=8075&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+https://t.me/proxy?server=23.88.25.22&port=8075&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+https://t.me/proxy?server=65.108.81.206&port=80&secret=ee42d438dff9b1a884966a387d1d65eba87777772e636c6f7564666c6172652e636f6d
+
+https://t.me/proxy?server=5.9.150.113&port=443&secret=7i7zYZd6DXIDCRiVG-MTWrJzMTAxLmRpdmFyY2RuLmNvbQIAAQABAAAAAAAAAAAAAAAAAAAWAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA=
+
+📱 @V2FaRayNG
+
+دیگ خایمالی دخترارو نکن بهت نوود بدن این کانال پره نووده دهه هشتادیه که اصن واویلاااا😍🤤
+@NOOD
+
+🥵 بدن‌نمایی نسیم الماسی 😏🖤
+
+🗿 #کانفیگ_اختصاصی برای #v2rayng :
+
+vless://9133ac26-cf0c-4663-9641-947caeea3b23@discord.gg:2087?path=%2F&security=tls&encryption=none&host=ShprxyV2ray.digitalciity.Tech&type=ws&sni=ShprxyV2ray.digitalciity.Tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40
+
+🚨 آموزش اتصال : Android | Iphone
+❔ چرا من وصل نمیشم⁉️
+💻 ارتباط با پشتیبانی و خرید کانفیگ اختصاصی
+
+⚡️ @V2rayng_Fast
+
+💥📣 سایت پیش بینی جهانی که مجهز به سیستم پرداخت جوایز با هوش مصنوعی در لحظه می باشد🥇
+
+📣 بدون فیلتر شکن نتوانستید وارد شوید به ما اطلاع دهید
+
+🤖 دانلود رسمی آپلیکیشن بردهاب ✅
+
+📲لینک جهت ثبت نام 📲
+http://bordhub.bet/V1L3VzZXIvc2lnbnVw/?channel=46044
+
+📣⬅️ دانلود آپلیکشن رسمی بردهاب ✅
+
+ 💥سیستم واریز جوایز
+با هوش مصنوعی در لحظه🔥 
+
+📱 لینک جهت ثبت نام 📱
+http://bordhub.bet/V1L3VzZXIvc2lnbnVw/?channel=46044
+
+👾👻اپدیت جدید پروکسی های همراه اول و مودم و برخی از خطوط ایرانسل و رایتل
+
+https://t.me/proxy?server=144.126.206.21&port=2992&secret=7q4Hw8Rmp1wsYhKVhDZmyUZkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20YDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+
+https://t.me/proxy?server=89.251.16.157&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D
+
+https://t.me/proxy?server=135.181.197.42&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616B61762E636F6d190902050004000400000000000000000000000000000000
+
+https://t.me/proxy?server=178.62.204.193&port=2992&secret=7sWf_3bHGpf8wgOM07C4ggFkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20YDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+
+‏https://t.me/proxy?server=89.251.16.157&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D
+
+https://t.me/proxy?server=89.251.16.167&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D
+
+https://t.me/proxy?server=89.251.16.74&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+https://t.me/proxy?server=178.62.204.193&port=2992&secret=7sWf_3bHGpf8wgOM07C4ggFkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20YDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+
+
+اگر وصل نشد👇
+
+۱. 🌒 گوشی رو حالت ایر بزار چند ثانیه
+۲. 🌓یا گوشی رو خاموش روشن کن
+۳. 🌔چک کن فیلتر شکن خاموش باشه
+
+💯 با پروکسی دات نت سریع و در دسترس باشید 👇
+
+   ╰➤  @ProxyDotNet  🤖
+
+👀🐾♥️پروکسی های مخصوص ایرانسل و رایتل و برخی از مودم ها
+
+
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل 
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل‌
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل
+پروکسی مخصوص ایرانسل 
+پروکسی مخصوص ایرانسل
+
+
+۱. 🌒 گوشی رو حالت ایر بزار چند ثانیه
+۲. 🌓یا گوشی رو خاموش روشن کن
+۳. 🌔چک کن فیلتر شکن خاموش باشه
+
+💯 با پروکسی دات نت سریع و در دسترس باشید 👇
+
+   ╰➤  @ProxyDotNet  🤖
+
+تورنومنت 10 میلیون تومانی اوماها 5 کارت♠️♥️
+
+هر روز ساعت 1:00 بامداد⏰
+مبلغ ورودی 30.000 تومان🤩
+
+همین حالا در این تورنومنت ثبت نام کنید👇
+http://ALLN28UL.com
+http://ALLN28UL.com
+تنها کانال رسمی پارس پوکر9g👇🏻👇🏻
+https://t.me/+O-KeQ50nNK00YzE6
+
+مشکلات ایرانیان سال ۱۳۵۳
+
+بابا مردم خــدایی حق داشتند انقلاب کنند!!😂
+آدم اشکش در میاد 😄
+
+💯 با پروکسی دات نت سریع و در دسترس باشید 👇
+
+   ╰➤  @ProxyDotNet  🤖
+
+این کارو انجام بدید نتیجه می‌گیرید. تضمینی.
+دقت کنید اسم‌ها رو جابه‌جا ننویسید. من اشتباه نوشتم مادرش وابسته‌م شد.
+
+💯 با پروکسی دات نت سریع و در دسترس باشید 👇
+
+   ╰➤  @ProxyDotNet  🤖
+
+👾👀 آپدیت شبانه پروکسی های مخصوص  برای همراه اول و مودم
+
+https://t.me/proxy?server=89.34.219.3&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D
+
+https://t.me/proxy?server=135.181.43.42&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D
+
+https://t.me/proxy?server=212.118.38.110&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+
+https://t.me/proxy?server=62.84.97.60&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.ir.com.mekanik-bartar.ir&port=3443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+https://t.me/proxy?server=135.181.85.227&port=6968&secret=8c273d0c75233e272dd96c0e9b8657a1
+
+https://t.me/proxy?server=148.251.5.28&port=8075&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+
+
+https://t.me/proxy?server=162.55.208.229&port=7443&secret=68b4a334dfdd73d489aebfd05091762c
+
+اگر وصل نشد👇
+
+۱. 🌒 گوشی رو حالت ایر بزار چند ثانیه
+۲. 🌓یا گوشی رو خاموش روشن کن
+۳. 🌔چک کن فیلتر شکن خاموش باشه
+
+💯 با پروکسی دات نت سریع و در دسترس باشید 👇
+
+   ╰➤  @ProxyDotNet  🤖
+
+بونوس بازی های اسلات🎰🤩
+
+با اولین شارژ روزانه 20% بونوس بازی های اسلات دریافت نمایید😱😍
+
+
+بونوس های هیجان انگیز در تکبت🤩♥️
+
+ورود به سایت تکبت👇
+https://t8zxaermvty.com
+https://t8zxaermvty.com
+اخبار و هدایا9a👇
+https://t.me/+mII_Xed0F6MxNDg8
+
+😍❤️‍🔥 یکی از بهترین انیمیشن‌های امسال، یعنی " سامورایی چشم آبی Blue Eye Samurai " محصول نتفلیکس در کانال سریالمون قرار گرفت.
+
+🍅 این انیمه از راتن تومیتوز نمره ۱۰۰/۱۰۰ رو دریافت کرده.
+‌
+💟 #جزء_250_سریال_برتر با رتبه 73
+‌
+🔞📆 همچنین بخاطر خشونت خونین و صحنه‌های ترسناک، رده سنی بزرگسال دریافت کرده و فردا از نتفلیکس پخش می‌شه.
+‌
+این انیمیشن با زیرنویس فارسی چسبیده📝 
+در کانال سریالمون که مجدد راه اندازی شده قرار گرفته عضو بشید و دانلود کنید😍👇👇
+https://t.me/+hMWy1ehnr0s2MWM0
+https://t.me/+hMWy1ehnr0s2MWM0
+
+✅  آموزش دانلود  ✅
+⁉️دوستان برای دانلود انیمیشن : 
+در آخر هر پست گزینه ای لینک دار به اسم👇
+
+برای دانلود این انیمیشن کلیک کنید✔️
+
+وجود داره که شما باید روی آن کلیک کنید 
+و با استارت(شروع) کردن ربات اختصاصی سون تون
+و با عضو شدن در کانال های مشخص شده 👇
+
+انیمیشن رو از ربات اختصاصی سون تون دریافت کنید 😍📥
+
+💢توجه کنید دوستان اگر گزینه (برای دانلود این انیمیشن کلیک کنید ✔️) برای شما لینک دار نبود مشکل از تلگرامتونه که با نصب کردن تلگرام اصلی این مشکل حل میشه✅
+
+⛔️‼️توجه کنید عزیزان‼️
+انیمیشن فرستاده شده تا 1 الی 2 دقیقه موجود هستش بعد از ربات پاک میشه❌
+➖➖➖➖➖➖➖
+لطفا انیمیشن هارو به پیوی دوستان یا خودتون و یا کانال خصوصی خودتون بفرستید که از ربات پاک میشه (جهت جلوگیری از فیلترینگ)
+🛑دوستان در ربات اصلا دانلود نکنید🛑
+✅ اول به یجایی بفرستید بعد دانلود کنید✅
+
+☝️☝️💥راه تشخیص مهره ی مار اصلی لو رفت☝️☝️💥
+
+🧮💵رزق و روزیت بسته شده و درآمدت اومده پایین؟✔️‼️
+👫تو جمع مورد توجه قرار نمیگیری و همه باهات سردن؟✔️‼️
+
+💀احساس میکنی سنگینی داری و مورد اذیت همزاد هستی؟✔️‼️
+❤️خواستگار نداری يا دیگه اصلا واست خواستگار نمیاد✔️‼️
+
+💯بیا تو کانال با مشاوره رایگان خیلی فوری و تضمینی مشکلتو حل کنA❤️⁹٫⁹👇👇💯
+@geregosha
+09229164110
+https://t.me/joinchat/AAAAAD9SEPjztQItR84YFw
+
+اینترنت برای همه 🤑 یا هیچ کس 🤑
+
+🪩 ربات دریافت کانفیگ رایگان | IP_CF | 🪩
+
+🤖@IP_CF_FreeConfig_Bot
+
+🛒کد هدیه:
+🆕 EruesJJlv
+
+💵حجم هر کانفیگ : 10 گیگابایت
+
+⏰مدت: 3 روزه 
+
+👑پشتیبانی از همه اپراتورها
+
+⚠️ هر کاربره یک مرتبه میتونه دریافت کنه.
+
+💡 راهنما : مطابق ویدیو و نکته زیر
+
+✅پلن جی ار : همه اوپراتور ها غیر رایتل
+✅پلن ریلیتی : همه اوپراتور ها غیر همراه اول
+
+🔥🔥🔥🔥🔥🔥🔥🔥
+⚜️More : @iP_CF
+🔥🔥🔥🔥🔥🔥🔥🔥
+
+🤑 اینترنت برای همه 🤑 یا هیچ کس 
+
+🪩 کانفیگ #V2RAY اختصاصی | IP_CF | 🪩
+
+✅#Estekhragi Configs :
+✅Collect By : Fodi™💻
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+🧠Configs :
+
+🫥
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.235.75:80/?type=ws&encryption=none&flow=&host=vr4RlSu.kallepache.store&path=%2Fgraphql#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+
+vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80/?type=ws&encryption=none&flow=&host=dk1.vlessx.xyz&path=%2F%3Fed%3D2048#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.160.36:80/?type=ws&encryption=none&host=vr4RlSu.kallepache.store&path=%2Fgraphql#Join%20Telegram%20%3A%20ID%20%40IP_CF%20%7C
+
+🫥
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+✅ قابل ست کردن آیپی تمیز
+
+🤗 ری اشکن هم برامون ببر بالا رفیق 💖
+
+🔥🔥🔥🔥🔥🔥🔥🔥
+  🤍 More : @IP_CF
+🔥🔥🔥🔥🔥🔥🔥🔥
+
+🔥از طریق این ربات. شما می توانید  1GB ترافیک  V2ray با کیفیت بگیرید.
+
+🔹 بعد از با دوستان شما اشتراک می گزارید.✨دوستان شما ۱ گیگایت ترافیک می گیرید و شما هم ✨
+
+ 🔹.هرچه با دوستان بیشتری اشتراک می گذازید ترافیک بیشتری دریافت می کنید.
+@insvpnbot
+
+⭐️🤩 بخر و خودتو راحت کن!!!
+
+🆒📣 اگر از کندی سرعت و قطعی فیلترشکن های متفرقه خسته شدی !!!! 
+
+💎⚡️ همین حالا میتونی در کمتر از ۱ دقیقه از فیلترینگ عبور کنی و خودتو راحت کنی !
+
+📶📶 ویژه همه اپراتورها
+
+🎧🎧 تیم پشتیبانی حرفه‌ای
+
+🛡🛰 بدون قطعی با سرعت تضمینی
+
+📊 امکان بررسی باقیمانده حجم توسط کاربر
+
+🤖 Android 🤍iOS 💙 Windows 
+
+🤍 NapsternetV 🤍 V2rayNg 
+
+💚 FairVpn 🔵FoxRay  ⚫️ V2Box
+
+✅ تضمینی و معتبر کانال
+❤️ مشاهده استوری رضایت مشتریان و تهیه اشتراک از طریق تنها اکانت رسمی کانال:
+
+💠🌐 @ads_Central_net
+💠🌐 @ads_Central_net
+💠🌐 @ads_Central_net
+
+🔝 🆕 🔝 ➡️ Outline Vpn 
+🌐 🔒 کلید اوتلاین 
+
+📖🎓  آموزش کلیک کنید : با یک ضربه روی هر سرور ؛ به صورت تک عددی کپی میشود سپس وارد اوتلاین شوید و سرور را اضافه Add کنید . 
+
+⚠️ ⬅️ توجه  :
+🗣️ ابتدا سرورهای قبلی نرم افزار اوتلاین را حذف کنید ؛ سپس سرور جدید را وارد کنید.
+
+🔣1⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Iran300+ID%28%40Outline_Vpn%29
+
+🔣2⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Iran500+ID%28%40Outline_Vpn%29
+
+🔣3⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Iran700+ID%28%40Outline_Vpn%29
+
+🔣4⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Iran900+ID%28%40Outline_Vpn%29
+
+📌 عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+
+🔐 کانال پروکسی تلگرام کلیک کنید
+
+⭐دریافت فیلترشکن اختصاصی VIP بدون قطعی کلیک کنید .
+
+🔵 @Outline_Vpn
+🔵 @Outline_Vpn_Qrcode
+
+همه . ساعت 12 همه سرور ها اپدیت میشن و دوباره کپی کنید استفاده کنید
+
+vless://27a38acf-31d5-4065-a7f3-26df258571aa@mtn.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnBuy.Online#%40V2RAYROZ+%7C+%D9%87%D9%85%D9%87
+
+@V2RAYROZ |
+
+🔥فرصت استثنائی دریافت متنوع‌ترین جوایز🔥
+📉 با فعالیت در بخش‌های کازینو و پیش بینی ورزشی امتیاز کسب کنید.
+🎁 بعد از جمع‌آوری امتیازات، آن‌ها را در گنجینه به جایزه تبدیل کنید.
+🌟 با فعالیت بیشتر سطح کاربری خود را ارتقا داده و  شانس دریافت جوایز را چندین برابر کنید.
+💻 ورود به سایت 👇
+⭐️  https://www.asfqwe.xyz/affiliates/?btag=914641_l181806
+⭐️ کانال رسمی ما در تلگرام 👇
+⭐️ https://t.me/BerryBetOfficial
+
+بریم سرور دوستان؟
+
+✅آاک در حضور کامل حاج‌صفی و نیمکت‌نشینی محمدی، یک بر صفر از برایتون شکست خورد. 
+
+🔺حاج صفی نمره خوب 7.4 را کسب کرد.
+
+@LegionerPersian
+
+🏆 لیگ حرفه‌ای عربستان همراه با هزاربت 🇸🇦
+
+⚽️ الهلال - النصر 
+⏰ جمعه ۱۰ آذر ساعت ۲۱:۳۰ 
+
+🔹 آمار و اطلاعات بازی:
+▪️الهلال در ۲۱ دیدار اخیر خود باخت نداشته.
+▪️الهلال در ۶ دیدار اخیر خود گل نخورده‌.
+▪️الهلال در ۳۴ دیدار اخیر خود گلزنی کرده.
+▪️النصر ۲۰ دیدار اخیر خود باخت نداشته.
+▪️النصر در ۱۹ دیدار از ۲۰ دیدار اخیر خود گلزنی کرده.
+▪️النصر در ۵ تقابل اخیر خود مقابل الهلال فقط ۱ برد داشته.
+
+📱جهت پیش‌بینی این مسابقه در سایت هزاربت روی لینک زیر کلیک کنید:
+🔹 hezar90hz.com
+
+📱کانال رسمی هزاربت:
+🔹@Hezarbet
+
+🔹 اپلیکیشن رسمی سایت معتبر 1000bet
+
+▪️بالاترین ضرایب رو فقط در سایت بین‌المللی هزاربت تجربه کنید.
+
+#جملات_تاکیدی_ثروت 
+#قسمت_اول 
+
+لطفاً هر روز به‌محض بیدار شدن و هر شب قبل از خواب نگاه کنید
+
+💰ذهن ثروتمند 💰
+@servatmanddd
+@servatmanddd
+
+💥سلام و عرض ادب خدمت دوستان عزیز 
+ما توی این کانال قصد داریم کمکتون کنیم تا بهترین‌ اتفاق‌هارو برای خودتون رقم بزنید، چون بدون شک لایق بهترین‌ها هستید. ما توی این زمینه‌ها می‌تونیم کمکتون کنیم👇🏻
+
+💥بررسی ارتعاش اسم
+💥تعیین عدد سرنوشت و مسیر زندگی به همراه تفسیر 
+💥عدد روحی و معنوی، به همراه تفسیر 
+💥عدد شخصیتی و عمومی به همراه تفسیر
+💥بررسی عدد کارمیک، تاثیر سیاره‌ها و چاکراها
+💥بررسی عدد کوا، شانس و عنصر وجودی شما
+💥بررسی اشتراکات عاطفی شما با پارتنر مورد نظرتون
+💥بررسی اشتراکات مالی با شریک کاری
+💥تعیین اسم خوش یمن برای نوزاد
+💥و در آخــر محاســبه کــد جــذب شخـصـی(کــد ابجــد)، در هر زمینه‌ای که مد نظر شماست.
+
+💥برای سفارش با کمترین هزینه به ادمین پیام بدید👇🏻
+
+🆔 @Cosmic_code_admin
+
+اولین مرحله برای انجام کاری و رسیدن به هدفی این است که تصمیم بگیریم که واقعا می خواهیم به آن هدف دست پیدا کنیم. 
+
+📕 کتاب : الفبای موفقیت  
+✍ اثر : #باب_پراکتور
+
+🪄برای دریافت عدد کوا، عدد شانس، عنصر وجودی و کد جذب عشق و ثروت به آی دی زیر پیام دهید👇🏻
+
+🆔@Cosmic_code_admin
+
+✅ NEW VLESS Server ✅
+Location : United Kingdom 🇬🇧
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.175.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+🌐 @VlessConfig
+
+✅ NEW VLESS Server ✅
+Location : United Kingdom 🇬🇧
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.50.158:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+🌐 @VlessConfig
+
+✅ NEW VLESS Server ✅
+Location : Ireland 🇨🇮
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.165.10:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+🌐 @VlessConfig
+
+✅ NEW VLESS Server ✅
+Location : Ireland 🇨🇮
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.76.133:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+🌐 @VlessConfig
+
+💎 اگر دنبال درآمد روزانه 700.000 تا 1.000.000 تومن میگردی و میخوا شروع کنی عضو کانال شو 🔥
+
+💰 ما تو کانال با هم روزانه بالای 700.000 تومن درآمد داریم و با پولش سرمایه گذاری میکنیم 😜😂
+
+https://t.me/+IlPvXVPbkO8yNWI0
+
+عضو کانال رضا کینگ کونگ شید و پول در بیارید و سرمایه گذاری کنید تا بتونید رو آیندتون تغییر ایجاد کنید ✅👇
+
+https://t.me/+IlPvXVPbkO8yNWI0
+
+برخی کاربران از بروز اختلال در تلگرامشون خبر دادن بدین شکل که تمامی گفتگوها اعم از کانال و گروه و پیوی با نام "کاربری حذف شده" مشاهده میشود و امکان ورود به گفتگوها وجود ندارد. گویا این یک باگ هست ولی فعلا علتش مشخص نیست قطعا بزودی این باگ رفع میشه و مشکل حل میشه.
+
+@ProxyDaemi
+
+✅ آپدیت لیست پروکسی های جدید و تازه ساخت با قابلیت دانلود مخصوص ایرانسل ، رایتل و برخی از اینترنت های ثابت
+
+پروکسی مخصوص ایرانسل1               
+پروکسی مخصوص ایرانسل2
+پروکسی مخصوص ایرانسل3
+پروکسی مخصوص ایرانسل4               
+پروکسی مخصوص ایرانسل5 
+پروکسی مخصوص ایرانسل6
+پروکسی مخصوص ایرانسل7
+پروکسی مخصوص ایرانسل8
+پروکسی مخصوص ایرانسل9
+پروکسی مخصوص ایرانسل10               
+پروکسی مخصوص ایرانسل11‌
+پروکسی مخصوص ایرانسل12
+پروکسی مخصوص ایرانسل13
+پروکسی مخصوص ایرانسل14 
+پروکسی مخصوص ایرانسل15
+
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌♻️ جهت اتصال دائمی و ارتقاء با آپدیت ها عضو کانال شوید
+🆔 @ProxyDaemi  👈🏼 join
+
+🔴 آموزشی _ ربات apk تلگرام بهترین وسیله برای دریافت و نصب تمامی برنامه های گوگل پلی از داخل تلگرام هست در زیر لینک دانلود چند برنامه پرطرفدار رو از این ربات براتون گذاشتیم.
+
+لینک دانلود تلگرام از ربات apk 
+http://telegram.me/apkdl_bot?start=org_telegram_messenger
+لینک دانلود واتساپ از ربات apk 
+http://telegram.me/apkdl_bot?start=com_whatsapp
+لینک دانلود توییتر از ربات apk 
+http://telegram.me/apkdl_bot?start=com_twitter_android
+لینک دانلود یوتیوب از ربات apk 
+http://telegram.me/apkdl_bot?start=com_google_android_youtube
+لینک دانلود اینستاگرام از ربات apk
+http://telegram.me/apkdl_bot?start=com_instagram_android
+لینک دانلود فیسبوک از ربات apk
+http://telegram.me/apkdl_bot?start=com_facebook_katana
+لینک دانلود گوگل کروم از ربات apk 
+http://telegram.me/apkdl_bot?start=com_android_chrome
+
+@ProxyDaemi
+
+🚫 مسدودشدن هزاران حساب جعلى در فيس‌بوک
+
+شرکت «متا» اعلام کرد هزاران حساب جعلی در فیس‌بوک را که تلاش می‌کردند در آستانه انتخابات ریاست‌جمهوری سال ۲۰۲۴ به اختلافات سیاسی در آمریکا دامن بزنند مسدود کرده است. به گفته این شرکت، حدود چهار هزار و ۸۰۰ حساب کاربری جعلی که در چین فعال شده بودند، با نصب عکس جعلی و استفاده از اسامی و محل اقامت ساختگی وانمود می‌کردند کاربران معمولی آمریکایی هستند و در مباحث سیاسی اين کشور مشارکت می‌کردند. آسوشيتدپرس گزارش داد: شبکه حساب‌های جعلی که شرکت متا آن‌ها را مسدود کرده هنوز در شبکه اجتماعی ایکس فعال هستند.
+
+🔸پ.ن : واقعا این چینی ها متخصص اکانتهای فیک هستن چندسال پیش برخی کاربران(احتمالا چینی) کانال مارو به زبان چینی در گوگل معرفی کرده بودند. بعد از ان تا چندین سال بعدش هم باز هرروز تعدادی اکانت چینی در کانال جوین میشد که از روی کنجکاوی بررسی کردیم هیچکدام واقعی نبود حالا تصورکنین که دولت چین با این اکانت ها چه غلطی میکرد یا میخواست بکنه !!
+
+@ProxyDaemi
+
+✅ آپدیت لیست پروکسی های جدید و تازه ساخت با قابلیت دانلود مخصوص ایرانسل ، رایتل و برخی از اینترنت های ثابت
+
+پروکسی مخصوص ایرانسل1               
+پروکسی مخصوص ایرانسل2
+پروکسی مخصوص ایرانسل3
+پروکسی مخصوص ایرانسل4               
+پروکسی مخصوص ایرانسل5 
+پروکسی مخصوص ایرانسل6
+پروکسی مخصوص ایرانسل7
+پروکسی مخصوص ایرانسل8
+پروکسی مخصوص ایرانسل9
+پروکسی مخصوص ایرانسل10               
+پروکسی مخصوص ایرانسل11‌
+پروکسی مخصوص ایرانسل12
+پروکسی مخصوص ایرانسل13
+پروکسی مخصوص ایرانسل14 
+پروکسی مخصوص ایرانسل15
+
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌♻️ جهت اتصال دائمی و ارتقاء با آپدیت ها عضو کانال شوید
+🆔 @ProxyDaemi  👈🏼 join
+
+بونوس بازی های اسلات🎰🤩
+
+با اولین شارژ روزانه 20% بونوس بازی های اسلات دریافت نمایید😱😍
+
+
+بونوس های هیجان انگیز در تکبت🤩♥️
+
+ورود به سایت تکبت👇
+https://t8zxaermvty.com
+https://t8zxaermvty.com
+اخبار و هدایا9a👇
+https://t.me/+mII_Xed0F6MxNDg8
+
+🔘 وزیر بهداشت: قراره که هزینه درمان کودکان زیر ۷ سال رو رایگان کنیم
+
+
+کانفیگ:
+
+
+vless://aa680245-9a05-4ac6-a86d-29ff8d1be8d9@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=%2F&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#%40v2rayng_org
+
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+سرور germany هتزنر با سرعت بیشتر از ناسا هم اکنون در ربات موجود شد🤯
+
+فقط تست کن ببین چه جیگریه بعدش بخر :
+
+@v2rayorgrobot
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+
+🆔 | @V2RAYNG_ORG ☜ کانال
+
+🔴 BLAUGRANA CREW 🔵
+
+⚽ روی مسابقاتی که باشگاه بارسلونا حضور دارد پیش‌بینی کنید و از 1XBET برنده جوایز شوید.
+
+❤️💙 بازی های بارسلونا را با شریک رسمی باشگاه بارسلونا  1XBET پیش بینی کنید.
+
+🌐Link: 1XBET.COM
+🌐Link: 1XBET.COM
+
+🔽🔽  فایل نصب اندروید 1XBET 🔽🔽
+
+💥 جدیدترین آپدیت اپلیکیشن رسمی 1XBET
+
+✅ ورود / ثبت نام از طریق اپلیکشن 
+🌐 بالاترین ضرایب در سایت جهانی 1XBET
+🎖بزرگترین اسپانسر رسمی لالیگا و سری آ
+
+🔴 بدون فیلترشکن از اپیکیشن رسمی 1XBET استفاده کنید 🔴
+
+سرور germany هتزنر با سرعت بیشتر از ناسا هم اکنون در ربات موجود شد🤯
+
+🥳فقط تست کن ببین چه جیگریه بعدش بخر :
+
+@v2rayorgrobot
+
+سرعتش عالی❤️❤️🔥😍😍
+
+💋goodnight kiss
+کانفیگ شادوساکس 
+فایل رو دانلود کنید و کانفیگ هارو (که به صورت متنی هست) کپی کنید و در برنامه Matsuri یا V2RayNG یا در سایر برنامه های مشابه (که از این نوع کانفیگ پشتیبانی میکنند) پیست (PASTE) کنید و سرور های مختلف رو امتحان کنید (که بهشون وصل شید)کنید (که بهشون وصل شید)
+اموزش تصویری
+📥Matsuri
+               📥V2RAYNG
+📥OneClick VPN(iOS)
+               📥NekoBox
+➖
+
+‼️active configs from today‼️
+import from file for Matsuri
+or open file copy all and import from clipboard for v2rayng‼️
+➡️video tutorial
+➖➖➖➖➖➖➖
+☎️Chat Chat Chat
+
+✅@oneclickvpnkeys
+
+Server : Unknown
+Port : 443
+Secret : 7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+
+Tab to set : 《 Connect to Proxy 》
+
+Join ==> @MTProxyStar ✔️
+
+Server : Unknown
+Port : 443
+Secret : 7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+
+Tab to set : 《 Connect to Proxy 》
+
+Join ==> @MTProxyStar ✔️
+
+Server : Unknown
+Port : 443
+Secret : 7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+
+Tab to set : 《 Connect to Proxy 》
+
+Join ==> @MTProxyStar ✔️
+
+Server : Unknown
+Port : 443
+Secret : 7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+
+Tab to set : 《 Connect to Proxy 》
+
+Join ==> @MTProxyStar ✔️
+
+🔰کانال بازار صالح آباد تهران🔰
+
+تکفروشی نداریم فقط عمده
+
+✅اولین عمده فروشی اینترنتی
+✅معرفی تولیدکنندگان ایرانی🇮🇷 و واردکنندگان
+✅اجناس مورد نیاز خود را دست اول با بهترین قیمت تهیه کنید
+✅بورس لوازم آشپزخانه،دکوری،شلف، اسباب بازی،گل،لوازم جشن و...
+
+کانال تلگرام 👇
+@salehabad 
+@salehabad
+
+وبسایت
+
+https://salehabad.org
+
+پیج اینستاگرام 
+https://instagram.com/salehabadcom
+
+🚒 Servers For V2rayNg & NapsternetV App. 
+
+🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
+
+
+
+
+vless://r4d@78.47.252.176:443?mode=gun&security=reality&encryption=none&pbk=DTcEmNN8tC69yNDqW6ZPnnlpfuRBzvdp_Ra46F2HFzs&fp=chrome&spx=%2F&type=grpc&serviceName=----telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza--------telegram:funza----&sni=www.funnygames.at#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🕷
+vless://1f63025e-2510-4fc8-a244-2bb964a85a4b@mci.dgi000.store:2096?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=mah1.haSmailKorea.storE#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🪲
+vless://7cad0c6d-9a25-4be7-872b-23c58a1360f2@bia-to1.unlimiteddev.shop:80?path=%2F&security=none&encryption=none&host=bia-to-channel3.unlimiteddev.shop&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🐜
+vless://6200d316-c25e-4ba6-a7a5-21b9c74e6769@all.v-2rayngvpn.cfd:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=Loop.v2rayvpn2.sbs#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🐞
+vless://eeb1d180-58df-4797-b88f-e94802bcabac@serv13.alpha2.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&sni=vip1.alpha5.top#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🐌
+vless://7cad0c6d-9a25-4be7-872b-23c58a1360f2@bia-to3.unlimiteddev.shop:80?path=%2F&security=none&encryption=none&host=bia-to-channel3.unlimiteddev.shop&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🦋
+vless://c255f68f-18f7-488a-b7fc-06a5676564f0@tel.icv2ray.top:2052?path=tel.iCV2ray.space&security=none&encryption=none&host=jp10.vlessx.xyz&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🐛
+vless://da4d951c-6794-4f6f-a7cc-6cb0ea128d16@104.16.0.163:80?path=%2F&security=none&encryption=none&host=join.bede.vmessorg.mokhin.me&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+🦄
+vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=chh.cheetahmh45.shop#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+
+
+
+⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.
+#نشردهید 
+
+@prrofile_purple
+
+دریادار سیاری: ایران به صادرکننده تجهیزات نظامی تبدیل شده است
+
+معاون هماهنگ کننده ارتش:
+
+امروز توانمندی‌های ایران در عرصه‌های مختلف به‌ویژه تجهیزات نظامی رشد و توسعه یافته، به یک خودکفایی رسیده‌ایم به‌طوری که صادرکننده انواع تجهیزات نظامی شدیم.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+یحیی سریع: به محض نقض آتش بس توسط رژیم صهیونیستی عملیات های خود را دوباره شروع می‌کنیم
+
+🔹تمامی کشتی های رژیم صهیونیستی که قصد عبور از دریای سرخ را داشته باشند توقیف کرده یا هدف قرار می‌دهیم علاوه بر این حملات خود را به سرزمین های اشغالی تشدید خواهیم کرد.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+🔴منابع خارجی: ونزوئلا گویان را به عنوان خاک کشور خود اعلام کرده است و گفته باید به سرعت در این کشور رفراندم برگزار شود.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+🔴بلینکن خواستار تمدید آتش بس برای "روز هشتم و پس از آن" شد
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+حماس صحبت‌های اسیر اسرائیلی خطاب به نتانیاهو را پخش کرد
+
+🔹یک اسیر اسرائیلی نزد حماس در ویدئویی از نتانیاهو می‌خواهد تا جنازه زن و فرزندانش که در بمباران اسرائیل کشته شده‌اند را تحویل بگیرد.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+🔰مقاومت اسلامی عراق آمادگی خود را برای عملیات علیه رژیم صهیونیستی اعلام کرد
+
+🔹مقاومت اسلامی عراق در بیانیه آمادگی کامل خود را برای تشدید و گسترش عملیات علیه دشمن صهیونیستی و نیروهای آمریکایی به محض از سرگیری تجاوزات نظامی به غزه اعلام کرد.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+دلنوشته سردار حاج قاسم سلیمانی: اولین بار است که به این جمله اعتراف می‌کنم. هرگز نمیخواستم نظامی شوم. این راه را انتخاب نکردم که آدم بکشم.
+من قادر به دیدن بریدن سر مرغی هم نیستم. من اگر سلاح به دست گرفتم برای ایستادن در مقابل آدم‌کشان است نه برای آدم کشتن...
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+آکسیوس: اسرائیل می‌گوید جنگ در غزه چند هفته دیگر ادامه خواهد داشت 
+
+🔹به نقل از سه منبع مطلع گزارش داده که «هرزی هالوی»، رئیس ستاد مشترک ارتش اسرائیل در جلسه با بلینکن در روز پنجشنبه به او گفت که عملیات نظامی اسرائیل در نوار غزه از جمله در منطقه جنوبی آن چند هفته دیگر ادامه خواهد داشت.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+ژنرال اسرائیلی: ارتش توان جنگیدن در چند جبهه را ندارد
+
+ اسحاق بریک ژنرال ذخیره ارتش اسرائیل:
+
+حماس افراد ربوده شده را از مناطقی که قرار بود در شمال نوار غزه تحت کنترل ما باشد، آزاد می‌کند.
+
+ما با اهداف خود در غزه فاصله زیادی داریم و حماس هنوز ده‌ها هزار جنگجو دارد.
+
+ارتش اسرائیل توانایی مقابله و جنگ همزمان در چند جبهه نبرد را ندارد.
+
+امروز نیروهای هوایی در جنگ‌ها پیروزی نمی‌آورند.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+روزنامه نگار نوزات چیچک:
+
+اگر کودکی که به زندان اسرائیل بیفتد به ۱۰ سال حبس محکوم شود و در پایان سال پنجم فوت کند، جنازه او به خانواده اش داده نمی شود. جنازه او ۵ سال دیگر نگهداری می شود و پس از پایان «مجازات» به خانواده اش تحویل داده می شود.
+فلسطینی ها حتی با مردن هم نمی توانند از ظلم و ستم اسرائیل اشغالی بگریزند!
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+🔴شنیده شدن صدای انفجار در شمال غزه 
+
+منابع محلی فلسطینی از شنیده شدن صدای چندین رشته انفجار و تیراندازی در شمال نوار غزه خبر دادند.
+
+نظامیان صهیونیستی با نقض مجدد آتش‌بس غزه به سمت اطراف محله الشیخ رضوان در شمال نوار غزه آتش گشودند.
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+🔴رژیم صهیونیستی مدعی است که حماس به شهرک سدیروت حمله راکتی کرده
+
+هم‌اکنون درگیری دو طرف شدت گرفته است
+
+سپاه سایبری پاسداران👇🏻
+☑️ @SEPAHCYBERY
+
+⭐️سرور جدید برای #V2ray:
+
+vless://27a38acf-31d5-4065-a7f3-26df258571aa@Join.V2RayTz.sbs:443?security=tls&encryption=none&headerType=none&type=tcp&sni=V2ray.SvnBuy.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+
+vless://8eb654cb-773d-430b-aa1c-53141e1b1a6b@Join.V2RayTz.sbs:443?security=tls&encryption=none&headerType=none&type=tcp&sni=V2ray.SvnReallity.Online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+
+🎞 آموزش اندروید | آموزش ایفون
+
+✅️@V2rayNGvpni
+
+⚡️ سریع ترین فیلترشکن جهان 
+
+🎌 با فیلترشکن ضدفیلتر کاپرا، سه سوت به اینترنت بدون محدودیت وصل شو
+
+✔️ فیلترشکن هم ضدفیلترش خوبه
+
+دانلود از گوگل پلی👇
+https://play.google.com/store/apps/details?id=com.capravpn.vpnpro
+
+دانلود مستقیم فایل👇
+
+☄️ با نصب فیلترشکن کاپرا دیگه نیاز به هیچ فیلترشکنی رو گوشیت نداری!
+
+⚡️ سریع ترین فیلترشکن جهان 
+
+🎌 با فیلترشکن ضدفیلتر کاپرا، سه سوت به اینترنت بدون محدودیت وصل شو
+
+✔️ فیلترشکن هم ضدفیلترش خوبه
+
+دانلود از گوگل پلی👇
+https://play.google.com/store/apps/details?id=com.capravpn.vpnpro
+
+دانلود مستقیم فایل👇
+
+☄️ با نصب فیلترشکن کاپرا دیگه نیاز به هیچ فیلترشکنی رو گوشیت نداری!
+
+🟢حجم کانفینگ : 2500 گیگ🟢
+🟢زمان کانفینگ : 3 هفته❤️
+🟢تعداد نفرات : ۱۵۰۰ نفر✔️
+وضعیت کانفینگ : فعال تا ۱ ماه ✅
+فعال برای همه ی اپراتور ها❤️
+باقی مانده نفرات:272نفر✔️
+
+
+👈دریافت کانفینگ 1000گیگ😍
+😂 👈دریافت کانفینگ 1000گیگ
+👈👈دریافت کانفینگ 1000گیگ🟢
+
+✅اگه نگیری بهتره بری پول کانفینگ بدی
+Ping: 75✔️
+
+🔺هرکسی به کانفیگ پرسرعت 🤒بدون محدودیت حجمی نیاز داره همین حالا استفاده کنه❗️❗️
+بعدا گله نکنید از من🖥🖥
+⭐کاملا رایگان⚡⭐
+                                   😋
+               ☺️دریافت کانفیگ نامحدود☺️       ⏩
+
+📷💬📺💬اگه میخوای سرعت بالایی داخل اینستا و هر برنامه فیلتری بصورت رایگان داشته باشی به رباتمون🎮 مراجعه کنید 
+❗️یک کانفیگ نامحدود 3️⃣سه روزه قرار دادیم داخلش فقط کافیه رو لینک زیر بزنید😇
+
+https://t.me/wedbaz_bot?start=MDLZTIJRHCDWMMPP
+
+♨️📢اصلاحات دفترچه راهنمای ثبت‌نام و شرکت در آزمون سراسری و آزمون اختصاصی پذیرش دانشجو – معلم در دانشگاه فرهنگیان سال 1403
+
+📋پیرو انتشار دفترچه راهنمای ثبت‌نام و شرکت در آزمون سراسری و آزمون اختصاصی پذیرش دانشجو – معلم در دانشگاه فرهنگیان سال 1403 و اطلاعیه تاریخ 1402/9/5، ضمن اعلام اصلاحات دفترچه راهنمای یاد شده «به شرح ذیل این اطلاعیه»، به اطلاع می‌رساند متقاضیان ثبت‌نام و شرکت در آزمون می‌توانند در مهلت در نظر گرفته شده و پس از مطالعه دقیق دفترچه راهنما و فراهم نمودن مدارک و اطلاعات مورد نیاز ثبت‌نام تا پایان روز شنبه به تاریخ 1402/9/11 به درگاه اطلاع‌رسانی سازمان سنجش آموزش کشور مراجعه و نسبت به ثبت‌نام در آزمون مذکور اقدام کنند.
+
+🔹ضمنا آن دسته از داوطلبانی که قبلا نسبت به ثبت‌نام اقدام کرده‌اند، می‌توانند در صورت تمایل تا تاریخ فوق، نسبت به مشاهده و ویرایش اطلاعات ثبت‌نامی خود اقدام کنند.
+
+⬅️صفحه استخدام دانشجو معلم
+➡️ https://www.e-estekhdam.com/?p=1678171
+
+📚 خرید بسته‌های ویژه آزمون آموزش و پرورش 
+➡️https://www.e-estekhdam.com/?p=1669216
+
+📙 مشاهده منابع تخصصی رشته شغلی‌های آموزش و پرورش
+🔗 https://www.e-estekhdam.com/?p=1578951
+
+
+👇🏻 دسترسی به «ای استخدام»:
+
+⬅️ تلگرام سراسری       ⬅️ تلگرام استانی
+⬅️ اینستاگرام             ⬅️ لینکدین
+⬅️ ربات تلگرام            ⬅️ ثبت نام در سایت
+
+@eestekhdam_ghazvin
+
+♨️📢آخرین خبرها از آزمون استخدامی فرزندان شهدا و ایثارگران
+
+📋رئیس سازمان اداری و استخدامی: مقرر شده است که دستگاه ها تعداد و شغل محل مشخص کنند که اگر مشخص شود، بنیاد شهید به ما اعلام می کند و ما هم اعلام خواهیم کرد..
+
+⬅️متقاضیان محترم برای مشاهده جزئیات به لینک زیر مراجعه نمایید.
+➡️https://e-estekhdam.com/?p=402020
+
+📚 کتاب الکترونیکی جامع و یکپارچه درس و نکات آموزشی به همراه اصل سوالات آزمونهای استخدامی با پاسخنامه تشریحی
+➡️ http://e-estekhdam.com/?p=1253597
+
+🐉 كانالهاي ديگمون:
+
+🌱\ @AwareEra
+
+🪽\ @Weergo
+
+🌤 \ @Eviewear
+
+اگه علاقه داشتيد جوين شيد و حمايت كنيد از ما 💚.
+
+♨این روز ها همه دنبال یک وی‌پی‌ان بدون قطعی و پایدار هستن چرا
+چون کسب و کار آنلاین دارین و نباید لحظه‌ای آفلاین باشین چون نیاز به یک آی‌پی ثابت دارین به همین دلیل ما سروری رو ساختیم که همه ی اپراتورها رو جواب میده 😍
+تعرفه های حجمی با 📌کاربر نا محدود📌 هستند
+
+🛍 10 گیگ ماهانه 25 تومان 
+🛍 20 گیگ ماهانه 40 تومان
+🛍 30 گیگ ماهانه 50 تومان 
+🛍 40 گیگ ماهانه 60 تومان 
+🛍 50 گیگ ماهانه 70 تومان 
+🛍 60 گیگ ماهانه 80 تومان 
+🛍 70 گیگ ماهانه 90 تومان 
+🛍 80 گیگ ماهانه 100 تومان 
+🛍 90 گیگ ماهانه 110 تومان  
+🛍 100گیگ ماهانه 120تومان 
+☄️ یک ماهه نا محدود 75ت تک کاربره 
+📌 یک ماهه نا محدود دو کاربره 110ت 
+📌 یک ماهه نا محدود سه کاربره 150ت 
+
+✅همراه با پشتیبانی کامل 24 ساعته تا آخرین روز😍 🌹
+
+🌐 کانال تلگرام ما👇
+➡️ @VPNPopular2023👈
+
+➡️ @VPNplus100👈
+
+
+📢ارتباط با پشتیبانی👇
+➡️ @Server_Vpn20 👈
+
+✅ @Server_Vpn20
+
+برای گرفتن سرور تست پیام بدید سرعت و کیفیت سرور ها خیلی بالاس حتما تست کنید
+
+✅✅ @Server_vpn20
+
+بونوس بازی های اسلات🎰🤩
+
+با اولین شارژ روزانه 20% بونوس بازی های اسلات دریافت نمایید😱😍
+
+
+بونوس های هیجان انگیز در تکبت🤩♥️
+
+ورود به سایت تکبت👇P9
+http://tuof8eubtj2.com
+http://tuof8eubtj2.com
+تنها کانال رسمی ما در تلگرام 👇👇
+https://t.me/+GTBWThhtmVYxOTlk
+
+🛑امشب تا فردا آخرین فرصت افزایش شانس درهفته طلایی WBNET 
+
+✅فردا شب از طریق ربات افراد برتر پیام دریافت خواهند کرد.
+
+🤖 @WBNetVPNBot
+
+🔻تأثیر بحران‌های ناشی از تغییرات اقلیمی بر افغانستان مورد توجه نشست‌ها قرار نمی‌گیرد
+
+🖋سجاد احمد حمیدی
+در هفته گذشته کنفرانس امنیتی هرات در شهر دوشنبه تاجیکستان برگزار شد که در آن دانشگاهیان و سیاستمداران به بررسی مسابل امنیتی افغانستان پرداختند. گرچه تشکیل چنین جلساتی خوب است ولی کلیشه‌ای شدن مباحث و چهره‌های تکراری شاید از نقاط ضعف این قبیل نشست‌هاست.
+
+یکی از بحران‌های امنیتی جدی که معمولاً در چنین مباحثی مورد توجه قرار نمی‌گیرد، بحران آب و محیط زیست است که در سال‌های اخیر به دلیل تغییرات اقلیمی وضعیت پیچیده‌تری نیز پیدا کرده است. افغانستان که سهم اندکی در تولید گازهای گلخانه‌ای در جهان دارد یکی از کشورهایی است که بیشترین آسیب را از تغییرات اقلیمی می‌بیند. 
+
+بحران‌های آبی و محیط زیستی در افغانستان که در سال های اخیر به دلیل تغییرات اقلیمی وضعیت پیچیده‌تری نیز پیدا کرده است، از چالش‌های امنیتی جدی در منطقه است و اغلب از توجه سیاستمداران و رهبران کشور دور می‌ماند.
+ادامه مطلب را در لینک زیر بخوانید:
+https://bbc.in/47R9tRb
+@BBCPersian
+
+🔻تصاویر ماهواره‌ای از احتمال تخریب بیش از ۱۰۰ هزار ساختمان در شمال غزه حکایت دارند
+
+بخش صحت‌سنجی و اعتباریابی اخبار ما - بی‌بی‌سی وریفای - از طریق سفارش تصاویر ماهواره‌ای نوار غزه به بررسی میزان تخریب شمال این منطقه تا روز پنجشنبه گذشته که آتش بس موقت انسان‌دوستانه آغاز شد، پرداخته است.
+
+بررسی این تصاویر هوایی و مقایسه آنها با تصاویر مشابه پیش از شروع جنگ اسرائیل-غزه، وسعت تخریب در شمال نوار غزه را که کانون حملات ارتش اسرائیل بود، نمایانگر می‌کند.
+
+بی‌بی‌سی وریفای با تحلیل این تصاویر و بررسی دیگر داده‌ها از جمله تصاویر پهپادی از منطقه تخمین می‌زند که ظرف حدود ۵۰ روز جنگ در شمال نوار غزه حدود ۱۰۰ هزار ساختمان آسیب دیده و تخریب شده است.
+
+در همین مدت حدود یک میلیون نفر از ساکنان این منطقه با ترک منازل خود به جنوب نوار غزه گریخته‌اند و بنابر گزارش مقام‌های بهداشتی تشکیلات حماس در غزه تا کنون ۱۴۵۰۰ نفر هم در جریان این جنگ کشته شده‌اند.
+برای دیدن تصاویر از لینک زیر استفاده کنید:
+https://bbc.in/3N5JYTH
+@BBCPersian
+
+🔻جانشین فرمانده انتظامی گیلان از پلمب ۴۵ تالار پذیرایی به دلیل عدم رعایت «ضوابط انتظامی و هنجارشکنی» در یک ماه گذشته در این استان خبر داد.
+ 
+به گزارش ایسنا، حسین حسن‌پور گفت که علاوه بر پلمب ۴۵ تالار در این مدت، ۱۳۷ تالار تذکر گرفتند و ۷۴ تالار هم تعهد دادند.
+ 
+او همچنین گفت که برای ۸۵ تالار هم اخطاریه پلمب صادر شده است.
+ 
+در ماه‌های گذشته و بعد از اعتراضات سراسری در ایران پلمب واحدهای صنفی ازجمله، تالارها، رستوران‌ها و کافه‌ها، فروشگاه‌ها و همچنین مراکز بزرگ خرید در شهرهای مختلف ایران بارها گزارش شده است.
+
+@BBCPersian
+
+در هفتمین روز آتش بس موقت در غزه، وزیر خارجه آمریکا در دیدار با نخست وزیر اسرائیل از او خواست پیش از آغاز دوباره عملیات نظامی، از حفظ جان غیرنظامیان فلسطینی مطمئن شود. 
+
+آنتونی بلینکن در ملاقات با رئیس تشکیلات خودگردان فلسطین در کرانه باختری هم گفت که واشنگتن به برداشتن گامهای عملی در جهت تشکیل کشور مستقل فلسطین متعهد است. 
+
+او همچنین حملات خشونت‌بار شهرک‌نشینان اسرائیلی به فلسطینیان در سرزمینهای اشغالی را محکوم کرد. 
+
+پیشتر، مهاجمان مسلح فلسطینی به یک صف اتوبوس در حومه بیت المقدس حمله کردند و سه نفر را کشتند. حماس مسئولیت آن حمله را به عهده گرفت. کسری ناجی گزارش می‌دهد.
+@BBCPersian
+
+پروانه معصومی بازیگر شناخته شده سینمای ایران در روز ششم آذر بر اثر بیماری ریوی درگذشت. بازیگری که با حضور در سه گانه ماندگار بهرام بیضایی در سینمای ایران تثبیت شد و پس از انقلاب هم با فیلم‌های تماشاگرپسند و سریال‌های تلویزیونی حضورش را ادامه داد.
+
+اما شاید بتوان گفت نگاه سیاسی و نزدیکی به حکومت و گرایش‌های مذهبی‌اش در دو دهه آخر عمر بود که تا حدود زیادی کارنامه بازیگری او را زیر سایه خود قرار داد. همین باعث شد درگذشت او با واکنش‌های زیادی در فضای مجازی روبرو شود که اکثر آن‌ها متفاوت با واکنش‌های عادی سینما دوستان در فقدان یک هنرپیشه قدیمی سینما و تلویزیون بود. 
+
+https://www.bbc.com/persian/articles/c729q9yelepo
+
+ارتش اسرائیل می‌گوید ۶ گروگان دیگری که حماس امشب آزاد کرده در مسیر ورود به مصر و پس از آن بازگشت به خاک اسرائیل هستند.
+
+وزارت خارجه قطر که یکی از میانجی‌های اصلی در این رابطه است می‌گوید ۶ گروگان آزاد شده به انضام دو گروگان دیگری که ساعاتی پیش آزاد شدند و ۲ زن اهل روسیه که دیروز آزاد شده بودند، مجموع گروگان‌های آزادشده از سوی حماس را به عدد ۱۰ خواهد رساند که مطابق مفاد آتش‌بس موقت میان دو طرف است.
+
+روز گذشته حماس علاوه بر ۱۰ گروگان اسرائیلی، دو زن روس را هم آزاد کرد که حالا قطر می‌گوید آن دو نفر باید جزء آمار امروز محاسبه شوند.
+
+با تایید ورود گروگان‌ها به خاک اسرائیل جزییات بیشتری از آنها را برایتان گزارش خواهیم کرد.
+
+همزمان انتظار می‌رود امشب اسرائیل هم ۳۰ زندانی فلسطینی دیگر را آزاد و روانه مناطق اشغالی و فسلطینی کند.
+
+روزنامه فایننشال تایمز نرگس محمدی برنده جایزه نوبل صلح امسال را در فهرست ۲۵ زن «با نفوذ» سال ۲۰۲۳ قرار داده است. این فهرست در مجله «زنان سال» این روزنامه منتشر شده است.
+
+در این فهرست نام برندگان نوبل، پولیتزر، گرامی و جام جهانی دیده می‌شود. مارگو روبی، بازیگر سینما، بیانسه خواننده، اورزولا فون در لاین رئیس کمیسیون اروپا، و اولنا زلنسکی بانوی اول اوکراین از دیگر افرادی هستند انتخاب شده‌اند.
+
+مرجان ساتراپی، نویسنده و کارگردان ایرانی فرانسوی، در یادداشتی برای فایننشال تایمز درباره نرگس محمدی نوشت: «او برای حقوق بشر می‌جنگد، برای حقوق زنان برای کنترل بدن خود و علیه آنچه «شکنجه سفید» می‌خواند.»
+
+«او دومین زن ایرانی است که بعد از وکیل و نویسنده شیرین عبادی برنده نوبل صلح می‌شود. این پیامی قوی برای جهانیان است. او نماینده همه ماست. ما تسلیم نمی‌شویم! ما اطاعت نمی‌کنیم! ما باید به عنوان انسان مورد احترام باشیم و نه فقط به عنوان جنس زن که تنها وظیفه او جذب کردن مردان و زایمان است. فقط یک چیز هست که از آزادی زیباتر است: جنگیدن برای آزادی. و این چیزی است که او را، در نظر من، به الهام بخش‌ترین شخص روی زمین بدل می‌کند.»
+
+مجلس نمایندگان آمریکا طرحی را تصویب کرده است که دسترسی ایران به شش میلیارد دلاری که اخیرا براساس توافق معامله زندانیان میان ایران و آمریکا برای مصارف خاص از انسداد خارج شده بود مسدود می‌کند.
+
+این طرح با ۳۰۷ رای مثبت در مقابل ۱۱۹ رای منفی تصویب شد.
+
+خبرگزاری آسوشیتدپرس گزارش می‌دهد که جمهوری خواهان این طرح را در واکنش به آنچه ادعا می‌کنند نقش ایران در حملات مرگبار روز ۷ اکتبر حماس به اسرائیل است پیش برده‌اند. آنها استدلال می‌کنند که دولت بایدن با آزادسازی شش میلیارد دارایی‌های ایران «شریک جرم» این کشور شده است. ایران نقش داشتن در آن حمله را قویا رد کرده است.
+
+مایکل مکال رئیس کمیته روابط خارجی مجلس نمایندگان در جریان بحث درباره این طرح گفت: «با وجود بی‌ثباتی زیاد در منطقه، آخرین چیزی که لازم داریم دسترسی ایران به شش میلیارد دلار است تا صرف تروریسم شود.»
+
+مقام‌های آمریکایی با رد این اتهام گفته اند که هنوز یک دلار از این پول هم به دست ایران نرسیده است و پافشاری می کنند که ایران فقط می تواند از آن برای نیازهای انساندوستانه استفاده کند.
+
+ارتش اسرائیل می‌گوید ۶ گروگان دیگری که حماس امشب آزاد کرده در مسیر ورود به مصر و پس از آن بازگشت به خاک اسرائیل هستند.
+
+وزارت خارجه قطر که یکی از میانجی‌های اصلی در این رابطه است می‌گوید ۶ گروگان آزاد شده به انضام دو گروگان دیگری که ساعاتی پیش آزاد شدند و ۲ زن اهل روسیه که دیروز آزاد شده بودند، مجموع گروگان‌های آزادشده از سوی حماس را به عدد ۱۰ خواهد رساند که مطابق مفاد آتش‌بس موقت میان دو طرف است.
+
+روز گذشته حماس علاوه بر ۱۰ گروگان اسرائیلی، دو زن روس را هم آزاد کرد که حالا قطر می‌گوید آن دو نفر باید جزء آمار امروز محاسبه شوند.
+
+با تایید ورود گروگان‌ها به خاک اسرائیل جزییات بیشتری از آنها را برایتان گزارش خواهیم کرد.
+
+همزمان انتظار می‌رود امشب اسرائیل هم ۳۰ زندانی فلسطینی دیگر را آزاد و روانه مناطق اشغالی و فسلطینی کند. 
+
+عکس:‌
+Reuters
+
+ساعتی پس از ورود گروگان‌های آزادشده اسرائیلی به خاک این کشور، ۳۰ زندانی فلسطینی هم تحویل صلیب سرخ شدند تا به مناطق اشغالی و فلسطینی منتقل شوند.
+
+اسامی گروگان‌های آزاد‌شده فلسطینی هنوز گزارش نشده است.
+
+آزادی گروگان‌ها و زندانیان در ادامه توافق آتش‌بس موقت انسان‌دوستانه میان ارتش اسرائیل و حماس است که هفتمین روز خود را گذراند. 
+عکس:‌
+Getty Images
+
+پل کربی
+دبیر بخش دیجیتال بی‌بی‌سی در حوزه اروپا
+
+در پی اظهار نظر تازه پدرو سانچز، نخست وزیر اسپانیا، که گفت «تردیدهایی جدی در مورد پایبندی اسرائیل به قوانین بشردوستانه بین‌المللی دارد» نزاع دیپلماتیک میان دو کشور تشدید شده است.
+
+او چند روز قبل اسرائیل را به «کشتار بدون تبعیض فلسطینی‌ها» در جریان عملیات در نوار غزه متهم کرده بود.
+
+اسرائیل تازه‌ترین اظهارات او را منزجرکننده خوانده است.
+
+سفیر اسپانیا برای دومین بار در این هفته برای نکوهش مواضع نخست وزیر این کشور احضار شد.
+
+الی کوهن، نخست وزیر اسرائیل، در شبکه ایکس نوشت: «اسرائیل مطابق با قوانین بین‌المللی عمل می‌کند و خواهد کرد و جنگ را تا زمانی که همه گروگان‌ها بازگشته‌اند و حماس از غزه حذف شده ادامه خواهد داد.»
+
+او گفت که در پاسخ به آنچه «اتهامات بی‌پایه» جدید رهبر اسپانیا خواند تصمیم گرفته است رودیکا رادیان-گوردون سفیر اسرائیل را برای مشورت از مادرید فرابخواند.
+
+عکس:‌
+پدرو سانچز، نخست وزیر اسپانیا‌
+
+EPA-EFE
+
+دو گروگان دیگر آزادشده امروز یک خواهر و برادر مسلمان اسرائیلی هستند که ۱۶ و ۱۸ سال دارند.
+
+عایشه و بلال زیادنا، در روز هفتم اکتبر توسط حماس در جنوب اسرائیل گروگان گرفته شدند و نگرانی فراوانی از تاخیر در آزادی آنها وجود داشت اما بالاخره امروز - پنجشنبه - در میان گروگان‌های آزادشده وارد خاک اسرائیل شدند. آنها از آخرین کودکانی هستند که حماس در اسارت دارد.
+
+نعمیه مادر این دو کودک مسلمان اسرائیلی عرب‌زبان همزمان با خوشحالی از آزادی آنها نسبت به سرنوشت پدر خانواده (یوسف) و پسر ارشد خود (حمزه ۲۲ ساله) که همچنان گروگان حماس هستند ابراز نگرانی کرده است.
+
+پل کربی
+
+دبیر بخش دیجیتال بی‌بی‌سی در حوزه اروپا
+
+در پی اظهار نظر تازه پدرو سانچز، نخست وزیر اسپانیا، که گفت «تردیدهایی جدی در مورد پایبندی اسرائیل به قوانین بشردوستانه بین‌المللی دارد» نزاع دیپلماتیک میان دو کشور تشدید شده است.
+
+او چند روز قبل اسرائیل را به «کشتار بدون تبعیض فلسطینی‌ها» در جریان عملیات در نوار غزه متهم کرده بود.
+
+اسرائیل تازه‌ترین اظهارات او را منزجرکننده خوانده است.
+
+سفیر اسپانیا برای دومین بار در این هفته برای نکوهش مواضع نخست وزیر این کشور احضار شد.
+
+الی کوهن، نخست وزیر اسرائیل، در شبکه ایکس نوشت: «اسرائیل مطابق با قوانین بین‌المللی عمل می‌کند و خواهد کرد و جنگ را تا زمانی که همه گروگان‌ها بازگشته‌اند و حماس از غزه حذف شده ادامه خواهد داد.»
+
+او گفت که در پاسخ به آنچه «اتهامات بی‌پایه» جدید رهبر اسپانیا خواند تصمیم گرفته است رودیکا رادیان-گوردون سفیر اسرائیل را برای مشورت از مادرید فرابخواند.
+
+نام سه زن ایرانی در فهرست یکصد زن قدرتمند کانادا که به وسیله شبکه مدیران زن کانادا (Women Executive Network -WXN) منتشر شده است، دیده می‌شود.
+
+لیلی پورزند، فعال حقوق زنان و کنشگر ارایه خدمات به زنان آسیب‌دیده اجتماعی در تورنتو، دکتر عاطفه مشاطان،‌ استاد دانشگاه متروپولیتن تورنتو و مدیر آزمایشگاه امنیت سایبری و آتوسا محمودپور، حقوقدان و فعال حقوق زنان از جمله ۱۰۳ زنی هستند که در سال ۲۰۲۳ از طرف شبکه مدیران زن کانادا مورد تقدیر قرار گرفته‌اند.
+
+در بیانیه این سازمان از زنانی که در فهرست یکصد زن قدرتمند قرار گرفته اند به عنوان زنانی نام برده که باعث ایجاد دگرگونی در عرصه فعالیت خود شده‌اند و به همه‌شمول کردن نقش زنان کمک کرده‌اند.
+
+برندگان در روز ۳۰ نوامبر در مراسم سالانه‌ موسوم به «جشن صد جایزه برتر» که در تورنتو برگزار می‌شود مورد تقدیر قرار خواهند گرفت. 
+
+عکس از راست به چپ:  دکتر عاطفه مشاطان، لیلی پورزند،  آتوسا محمودپور
+
+خبر بازداشت مجدد توماج صالحی در بابل، بسیاری از طرفداران او و مخالفان حکومت ایران را خشمگین کرده است. ‌
+پنج‌شنبه ۹ آذر، سه روز پس از انتشار ویدئو توماج صالحی، خواننده رپ معترض در ایران که در آن از بدرفتاری، شکنجه و ضرب و شتم در دوران بازداشت خود خبر داده بود، افراد لباس شخصی با ضرب شتم مجددا او را بازداشت کردند. ‌
+‌
+طرفداران توماج صالحی به دلیل اینکه لباس شخصی‌ها بدون نشان دادن حکم و با ضرب و شتم توماج صالحی را در خیابانی در بابل دستگیر کردند،‌ نوشتند که باید به جای به کار بردن کلمه بازداشت از کلمه «آدم‌ربایی» استفاده کرد. ‌‌
+
+حسین رونقی، فعال سیاسی با اشاره به اینکه توماج مشغول درمان آسیب‌هایی بوده که در اثر شکنجه هنگام بازداشت در سال گذشته متحمل شده است،‌ در یک استوری اینستاگرام خود نوشته است که نیروهای امنیتی با ضرب و شتم دوباره به او آسیب زدند و «دزدیدنش» ‌
+ حسین رونقی نوشته‌ است: «عصبانیم، برای اینکه وسط خیابان با اسلحه کتکش زدند و دزدیدنش.»‌
+      ‌
+او خطاب به غلامحسین محسنی اژه‌ای نوشته است: «‌
+«توماج شهروند این مملکته یا نیست؟ شما می‌گویید ماموران حق ندارد حقوق متهم را نقض کنند، آسیبی به متهم وارد کنند، می‌گویید شکنجه ممنوع است. اما ماموران زیر نظر شما مثل حیوان با شهروندان این مملکت برخورد می‌کنند. کسی هم اعتراضی می‌کند، می‌گویند ما خداییم و بدترش می‌کنند. هر آسیبی به توماج وارد شود مسئولیتش با حکومت است.‌»‌
+ 
+‌عده‌ای دیگر بازداشت مجدد توماج صالحی را ترس حاکمیت از توماج تعبیر کردند. به عقیده آنها حاکمیت در مقابل حقیقت‌گویی توماج صالحی ناتوان است. ‌
+ اما بعضی از کاربران نوشتند که حکومت تنها قادر است جسم توماج را اسیر کند و نه ذهن و روح او را.  
+‌بسیاری خواهان نگران سلامتی توماج صالحی هستند و خواهان آزادی فوری او شده‌اند. ‌
+ 
+توماج صالحی که سال گذشته در جریان اعتراضات سراسری در ایران بازداشت شده و بیش از یک سال در زندان بود حدود ۱۰ روز پیش با قید وثیقه از زندان آزاد شد. او در ویدئویی که سه روز پیش در شبکه‌های اجتماعی منتشر شد از حمایت مردم تشکر کرد و از «شکنجه و بدرفتاری» در طول بازداشت خود خبر داد.
+ 
+او گفته بود که هنگام بازداشت «خیلی شکنجه شده است» و به سختی و به طور طولانی مدت او را «کتک» می‌زدند و بر سر و صورتش می‌زدند.
+
+شوخی روا با جریمه های درویش برای پرسپولیسی‌ها
+
+@varzesh3
+
+🇸🇦👱‍♂️پیروزی 6 بر 0 الاهلی در روز گلزنی ریاض محرز 
+
+گابریل ویگا(2) و کسیه هم در این مسابقه گلزنی کردند.
+
+@varzesh3
+
+👱‍♂️گل دوم الاتحاد به الخلیج توسط بنزما 
+
+@varzesh3
+
+💎 با فیروزه برنده بورس باشید:
+
+🔼 در تمام روزهای بازار، چه مثبت چه منفی،‌ ترکیب برنده‎‌ای از صندوق‌های فیروزه وجود دارد:
+
+🔹 نماد دریا: پایدار در بازدهی
+🔹 نماد موج: بالاترین اهرم مالی (۲٫۶) بازار سرمایه
+🔹 نماد فیروزه: خرید و فروش مستقیم شاخص
+🔹 فیروزه موفقیت: بیش از ۲۰۰ برابر سود از ابتدا
+
+➕ صندوق‌های ETF سهامی دریا، موج و فیروزه در تمام روزهای بازار از ساعت ۰۸:۳۰ تا ۱۵:۰۰ قابل معامله هستند. فیروزه موفقیت ۲۴ ساعته قابل خرید است.
+
+💎 مشاوره تخصصی سرمایه‌گذاری
+
+ 🎙   +982179672000
+
+لیونل مسی برای اولین بار از سال 2006، در طول یک سال میلادی هیچ پنالتی گل نکرد.
+
+@varzesh3
+
+#لیگ_اروپا2024
+ترکیب لیورپول برابر لاسک
+ساعت 23:30 به وقت ایران
+
+@varzesh3
+
+#لیگ_اروپا2024
+ترکیب آاس رم برابر سرویت
+ساعت 23:30 به وقت ایران
+
+@varzesh3
+
+#کاریکاتور 
+خلاصه عملکرد تیم های انگلیسی در #لیگ_قهرمانان_اروپا2024 
+
+@varzesh3
+
+🏴⚽️ گل اول لیورپول توسط دیاز در دقیقه 12
+لیورپول 1 - لاسک 0
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+🏴⚽️ گل دوم لیورپول توسط خاکپو در دقیقه 15
+لیورپول 2 - لاسک 0
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+🇮🇹⚽️ گل اول آاس رم توسط لوکاکو در دقیقه 21
+سروت 0 - رم 1
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+👟 گالری تهران کتانی👟 
+
+🔥ارزان تر و با کیفیت تر از همه جا 🔥
+
+🔴بزرگ‌ترین فروشگاه کتانی و پوشاک اورجینال به قیمت عمده در ایران
+
+🔴کالکشن 2023 کتانی و پوشاک رسید
+
+🔴با بیش از ۱۰ سال سابقه درخشان 
+
+🛒 امکان خرید حضوری و اینترنتی
+📍دارای دو شعبه بسیار بزرگ در تهران و کرج 
+
+لمس کنید و مدل ها رو ببینید👇🏻👇🏻👇🏻👇🏻
+https://t.me/+KqzfhdO_QLUxMGM0
+https://t.me/+KqzfhdO_QLUxMGM0
+https://t.me/+KqzfhdO_QLUxMGM0
+https://t.me/+KqzfhdO_QLUxMGM0
+
+🏴⚽️ گل سوم لیورپول توسط صلاح از روی نقطه پنالتی در دقیقه 50
+لیورپول 3 - لاسک 0
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+گل اول سروت توسط بدیا در دقیقه 50
+سروت 1 - رم 1
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+دبل خاکپو؛
+🏴⚽️ گل چهارم لیورپول توسط خاکپو در دقیقه 90
+لیورپول 4 - لاسک 0
+
+🔹لینک پخش زنده در آنتن
+
+@varzesh3
+
+قیچی برگردون تماشایی اوبامیانگ در پیروزی 4 بر 3 مارسی برابر آژاکس
+
+اوبامیانگ در این مسابقه هت تریک کرد و دو گل دیگر از روب نقطه پنالتی به ثمر رساند.
+
+@varzesh3
+
+#لیگ_اروپا2024 
+پیروزی و صعود قرمزها در شب دبل خاکپو
+
+@varzesh3
+
+#لیگ_اروپا2024 
+صعود به مرحله حذفی قطعی شد؛
+رم به دنبال صدرنشینی در هفته پایانی
+
+@varzesh3
+
+نتایج کامل دیدارهای امشب #لیگ_اروپا2024 
+
+@varzesh3
+
+نتایج کامل دیدارهای امشب #لیگ_کنفرانس2024  
+
+@varzesh3
+
+پیراهن های لیونل مسی در جام جهانی 2022 در حراجی معروف ساتبیز در نیویورک به قیمت کنونی 5.2 میلیون دلار رسیده است.
+
+این مزایده تا 2 هفته آینده ادامه دارد و باید دید قیمت پیراهن های فوق ستاره تاریخ فوتبال به رکورد فروش پیراهن ورزشی که هم اکنون در دست مایکل جردن، افسانه تاریخ بسکتبال NBA با حدود  10 میلیون دلار است نزدیک می‌شود یا خیر.
+
+@varzesh3
+
+📌 برنامه مسابقات مهم | 📆 جمعه ۰۹/۱۰
+
+🏀 بسکتبال NBA
+میامی هیت - ایندیانا پی سرز
+⏰ ساعت ۰۴:۱۰
+🔹 پخش زنده
+
+🏀 بسکتبال NBA
+گلدن استیت واریرز - لس آنجلس کلیپرز
+⏰ ساعت ۰۶:۴۰
+🔹 پخش زنده
+
+🏐 لیگ برتر والیبال زنان
+مس رفسنجان - ذوب آهن اصفهان
+⏰ ساعت ۱۱:۰۰
+🔹 پخش زنده
+
+🏐 لیگ برتر والیبال زنان
+سایپا تهران - سپاهان اصفهان
+⏰ ساعت ۱۱:۰۰
+🔹 پخش زنده
+
+🏐 لیگ برتر والیبال زنان
+مهرسان تهران - پیکان تهران
+⏰ ساعت ۱۴:۳۰
+🔹 پخش زنده
+
+⚽️ رده بندی جام جهانی زیر ۱۷ سال 
+آرژانتین - مالی
+⏰ ساعت ۱۵:۳۰
+🔹 پخش زنده
+
+⚽️ لیگ حرفه‌ای عربستان🔥
+الهلال - النصر
+⏰ ساعت ۲۱:۳۰
+🔹 پخش زنده
+
+⚽️ سری آ ایتالیا
+مونزا - یوونتوس
+⏰ ساعت ۲۳:۱۵
+🔹 پخش زنده
+
+✅ برنامه کامل پخش مسابقات رو می‌تونید در سایت و اپلیکیشن آنتن مشاهده کنید.
+
+📱دانلود اپلیکیشن | 🖥 ورود به سایت
+
+@anten
